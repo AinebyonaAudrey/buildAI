@@ -1,0 +1,1395 @@
+{
+  "subject": "GENERAL SCIENCE SYLLABUS",
+  "generatedAt": "",
+  "globalIctGuidelines": "ICT is embedded as a learning/teaching tool through a framework cutting across all subjects. Tasks and their ICT applications include: Field works (cameras for photos/videos), Presentations (presentation applications), Key words/meanings (online dictionaries/search), Drawing/graphics (publishing software/word processors), Role play/narrations/demonstrations (audio/video recordings and simulations), Locating areas (digital/online mapping), Data charts (spreadsheet software), Group discussions (mind-mapping software), Extra reading (Internet downloads), Equations/formulas (equation editors), Research (Internet and academic applications like Encarta/Britannica), and Global sharing (learning networks, blogs, social media, emails).",
+  "topics": [
+    {
+      "topicCode": "1",
+      "topicName": "INTRODUCTION TO GENERAL SCIENCE",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Introduction to general science",
+      "durationPeriods": 10,
+      "competency": "The learner understands the meaning of integrated science and why it is important to study.",
+      "learningOutcomes": [
+        "a. Highlight some of the science issues that were studied in the primary school (k, u)",
+        "b. Understand the difference between Natural Science and Social Science, and between science and technology (u)",
+        "c Identify some daily phenomena that can be explained using scientific knowledge (u,gs)",
+        "d. Understand how science and technology affect society (u)",
+        "e Understand the instances in which science and technology have been misused (u)"
+      ],
+      "suggestedActivities": [
+        "In groups and with guidance from the teacher, learners; discuss the differences between science and technology and outline examples of areas of life where science and technology have improved the quality of life",
+        "discuss how science helps us to obtain knowledge and also how it helps to explain superstitions, beliefs and taboos.",
+        "discuss how science and technology are misused in society e.g. warfare, etc."
+      ],
+      "assessmentStrategies": [
+        "Ask learners to identify the areas of life where science and technology have brought improvements. Converse with the learners what improvements have been brought and assess how they communicate.",
+        "Ask individual learners to state one problem facing their community and outline the steps scientists will go through to solve the problem. Assess how the learners communicate scientifically."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "2",
+      "topicName": "HAZARDS AND FIRST AID",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Science for Health and Safety",
+      "durationPeriods": 26,
+      "competency": "The learner identifies the various hazards and devises appropriate methods of preventing hazards in the home and at school.",
+      "learningOutcomes": [
+        "a. understand the term hazard (u)",
+        "b. know examples of hazards in the home and at school (u)",
+        "c. identify warning and safety signs (u, s)",
+        "d. understand safety precautions to prevent hazards (n)",
+        "e. describe \"first aid\" and explain its role (u,v/a)",
+        "f. know the contents of a first aid box and theiruses (k)",
+        "g. Describe how to administer first aid to common hazards (scald, burn, cut, electric shock, fracture. Fainting, bites, chemical contact) (u, s, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners; Discuss causes of hazards that are encountered in teaching/learning of science and how they can be discuss the common hazards that occur at home and how they can be prevented",
+        "Design a poster to help avoid the occurrence of hazards at school"
+      ],
+      "assessmentStrategies": [
+        "Task individual learners to identify and discuss three hazards that can occur (in teaching and learning science). Let learners write a brief note (product) of what they would do in case such a hazard occurred.",
+        "Ask learners to mention/describe safety or warning signs and interpret them ina conversation. Allow learners to critique their peers."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "3",
+      "topicName": "MEASUREMENTS, DENSITY",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Science and Technology",
+      "durationPeriods": 36,
+      "competency": "The learner estimates and measures length, mass, time, area, volume and density and expresses them in appropriate units.",
+      "learningOutcomes": [
+        "a. understand the meaning and importance of measuring and state instances where it is applied (u,v/a)",
+        "b. know the fundamental quantities and instruments used to measure them (k)",
+        "c estimate and measure different physical quantities using appropriate equipment and express them using appropriate units (s)",
+        "d. determine volume of irregular objects (u,s)",
+        "e understand the meaning of fundamental/ base and derived physical quantities and states their examples (u)",
+        "a. Understand the meaning of density and solve simple numerical problems on density (u, s)",
+        "b. Relate the density and relative density of substances (u)",
+        "c. Determine the densities of different solids and liquids (u, s)",
+        "d. Predict whether a material floats or sinks in water in relation to its density (u)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners; measure length for a variety of objects such as a desk, one's height, height of the classroom and others, express the readings using different units and compare their readings",
+        "measure mass for different objects and compare their answers, then they discuss why their answers are different.",
+        "measure the volume of regular and irregular objects using measuring cylinder and describe the steps they undertake.",
+        "In groups and with help of the teacher, learners; plan and carry out experiments to determine densities of solids of different materials such as cork, plastic, wood, glass blocks and predict whether they float or sink in water",
+        "carry out experiments to determine densities of some liquids."
+      ],
+      "assessmentStrategies": [
+        "Learners work together to measure and record each of the following: The length of a football pitch; The width of your classroom; The area of the desk top; The thickness of the desk top; The time a friend takes to walk 20 paces; The mass of your pen. Converse with the learners about how they choose the instrument, the teamwork, the accuracy and the recording of units.",
+        "Learners calculate the density in g cm-3 and kg m-3 for a block of material of mass 600 g and volume 200 cm3 and predicting whether this block will float or sink in water. Observe how learners state the formula, the substitution in the formula, stating the final answer and in a conversation, let learners state how they relate the answer to floating/sinking in water."
+      ],
+      "ictSupport": null,
+      "notes": "( ) The reading of vernier calipers and micrometer screw gauge is not required. (i) Both digital and analog clocks to be used where available (Accuracy and significant figures should be emphasised throughout the whole syllabus. Scientific method should be continuously applied to many other topics and sub-topics"
+    },
+    {
+      "topicCode": "4",
+      "topicName": "MATTER",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "Science in Industry",
+      "durationPeriods": 22,
+      "competency": "The leaner appreciates and relates properties of the states of matter to physical and chemical phenomena in daily life.",
+      "learningOutcomes": [
+        "a. understand what matter is and identify different states of matter (k, u)",
+        "b. use knowledge of kinetic theory and particulate nature of matter to explain the states of matter and their properties (u)",
+        "cknow the factors that affect the rate of diffusion of a gas (k)",
+        "d. use scientific knowledge of the particle theory to explain common phenomena such as gas pressure, clothes drying, rain formation and making a cup of tea (u, v/a)",
+        "a) understand the processes of change of state such as melting, boiling, evaporation, condensation, freezing and sublimation in terms of either heat gain or heat loss (k, u)",
+        "a. compare physical and chemical changes (k, u)",
+        "b. categorise processes in everyday life as physical and chemical changes (u, gs)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners; investigate the differences between the common three states of matter as accounted for by the particle and kinetic theory and make reports",
+        "discuss why a wet piece of cloth dries faster on: hot still (windless) day than a cold day; cold windy day than a cold still day",
+        "In groups, learners: carry out a discussion on the effect of cooling and heating on the states of common substances",
+        "discuss the changes of state in terms of the kinetic theory and make a report",
+        "In groups, learners investigate the difference between chemical and physical changes, basing on boiling of water, melting of ice, sublimation of iodine, burning a piece of wood, ripening of fruits, rusting of iron, and any other daily processes"
+      ],
+      "assessmentStrategies": [
+        "Learners use models (from local materials) to explain the difference between solids, liquids and gases in terms of arrangement of particles. Consider how learners select and arrange the materials and the written report of what they do.",
+        "In a conversation, learners describe the changes of state of matter that occurin the following cases: melting candle wax, Heating of ice, boiling water, heating iodine",
+        "Classify the following processes as physical change or chemical change and give reasons for your answer: Burning of wood, Rotting of fruits, Melting of candle wax, Condensation of steam, Dissolving sugar in water"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "5",
+      "topicName": "TEMPERATURE AND THERMOMETERS",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "Science and Energy",
+      "durationPeriods": 20,
+      "competency": "The learner understands the construction and use of thermometers",
+      "learningOutcomes": [
+        "a. compare temperature and heat (u)",
+        "b. understand the meaning of thermometric properties (k, u)",
+        "c. demonstrate how temperature scales are obtained from thermometric properties (n)",
+        "d. solve simple numerical problems related to temperature scales (u, s)",
+        "e. compare mercury, alcohol and water as thermometric liquids (u)",
+        "f. demonstrate the construction and use of clinical thermometer (u, s)",
+        "g. convert temperature from one scale to another (u, s)",
+        "h. understand the daily variations in temperature of the atmosphere (u, gs)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners; measure their body temperature and compare it with the known value.",
+        "discuss the advantages and disadvantages of mercury and water as thermometric liquids",
+        "discuss the best practices which a health worker should use to care for a clinical thermometer"
+      ],
+      "assessmentStrategies": [
+        "In a conversation, learners explain why mercury is sometimes a better thermometric liquid than alcohol. Assess the communication of learners."
+      ],
+      "ictSupport": null,
+      "notes": "Note: The operation of gas thermometers and resistance thermometer should not to be discussed at this level"
+    },
+    {
+      "topicCode": "6",
+      "topicName": "DIVERSITY OF LIVING THINGS",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "Science and the Environment",
+      "durationPeriods": 30,
+      "competency": "The learner identifies and appreciates the diversity of animals, plants and microorganisms and the importance of organisms in life.",
+      "learningOutcomes": [
+        "a. know the processes that are characteristic of all living things and their importance (k)",
+        "b. know the parts and functions of typical animal and plant cells (k)",
+        "c understand the levels of cellular organisation in multi-cellular organisms (n)",
+        "d. know the seven levels of taxonomy (k)",
+        "e. understand the two-word naming system of living organisms (k, u)",
+        "f. know characteristics of organisms in the following categories of living things: monera, protoctista, fungi, plantae, arthropoda, chordata and viruses (k, u)",
+        "g. analyse the uses and harmful effects of organisms in kingdom monera and fungi (k,v/a)",
+        "h. know the main characteristics ofinsects and understand the lifecycles of a housefly, cockroach, mosquito, bee and butterfly (k, u, v/a)",
+        "i. appreciate the useful and harmful aspects of a housefly, cockroach, mosquito, bee and butterfly and devise methods of controlling them(u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups learners; discuss the following scenario and present their work to the rest of the class. A \"boda-boda motorcycle\" consumes petrol, takes in air, it moves gives off waste products in form of smoke. Is a boda- boda motorcycle a living organism? Give reasons for your answer",
+        "use ICT or other sources to research and play out a short drama skit on the functions of the parts in a plant and animal cell",
+        "discuss how housefly, cockroach, mosquito, bee and butterfly are useful and harmful and make presentations"
+      ],
+      "assessmentStrategies": [
+        "A new vertebrate is found in a tropical rain forest. It spends a lot of time in water, has four limbs, two eyes and a body temperature that varies with the surroundings. Basing on this information and in a conversation, task learners to answer the following questions: To which classes of vertebrates might it belong? What other features would you look for to be reasonably sure of the correct class?"
+      ],
+      "ictSupport": null,
+      "notes": "Note: The parts of the cells should be limited to cell membrane, cell wall, chloroplast, cytoplasm, nucleus, nuclear membrane cell vacuole and cell vacuole membrane"
+    },
+    {
+      "topicCode": "7",
+      "topicName": "PLANT STRUCTURE",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Science in Agriculture",
+      "durationPeriods": 14,
+      "competency": "The learner identifies the different parts of flowering plants and their functions.",
+      "learningOutcomes": [
+        "a. know the external parts of a typical flowering plant (k)",
+        "b. know the functions of a root, stem, leaf, flower and fruit to a plant (k, u)",
+        "c. understand the various ways by which different plant parts are used by the society (u, v/a)",
+        "d. understand that there are modified roots, stems and leaves and identify their functions for both the plant and the society (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups or as individuals, learners; feel and identify the different parts of a typical flowering plant. Then they discuss and list functions of different plant parts (roots, stems, leaves, flowers and fruits)",
+        "use observable features to identify a modified root, stem and leaf and describe the modifications and how they are useful"
+      ],
+      "assessmentStrategies": [
+        "Task learners to group the following plant parts which we use as foods into roots, leaves, stems and fruits: cabbage, sugar cane, Irish potato, pumpkin, carrot, onion, tomato, groundnuts, cassava root, sweet potato tuber, maize grain. In a peer conversation, let learners give the reasons why they make such grouping"
+      ],
+      "ictSupport": null,
+      "notes": "Note: The parts and functions of the internal structure of a plant NOT required"
+    },
+    {
+      "topicCode": "8",
+      "topicName": "REPRODUCTION IN PLANTS",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Science in Agriculture",
+      "durationPeriods": 14,
+      "competency": "The learner understands that the flower is the organ where sexual reproduction occurs leading to a new plant and that parts other than the seed can develop into new independent plants.",
+      "learningOutcomes": [
+        "a. understand the meaning of pollination and describes the types and agents of pollination (k, u)",
+        "b. understand the meaning of fertilization and identifies its products (k, u)",
+        "c. compare seeds and fruits (u)",
+        "d. understand the meaning of fruit/seed dispersal, its agents and explain its importance to the plant species and farming (u)",
+        "a. understand that there are other parts of a plant other than the seed that can develop into a new plant of the same kind (k, u)",
+        "b. practice vegetative propagation by cutting, grafting and suckers and give examples (k, u, gs)",
+        "c. know the advantages and disadvantages of vegetative propagation (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners discuss and suggest what would transfer pollen from the anther to the stigma and hence identify types of pollination. And make a report",
+        "Learners listen to a talk by a farmer/ agriculturist about obtaining new plants from other plant parts and make areport."
+      ],
+      "assessmentStrategies": [
+        "Ask individual learners to describe what would happen to a given plant species if seed/fruit dispersal does not take place over a long period of time. Assess how learners can communicate scientific ideas in this case.",
+        "Let learners outline the common features of all plant parts used for vegetative propagation have. In a conversation, let the learners explain the way the parts develop into new plants"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "9",
+      "topicName": "ELEMENTS, COMPOUNDS AND MIXTURES",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Science in Industry",
+      "durationPeriods": 20,
+      "competency": "The learner explains composition and properties of different forms of matter.",
+      "learningOutcomes": [
+        "a. understand the meaning of elements, compounds and mixtures (k, u)",
+        "b. compare between metals andnonmetals using laboratory tests(k)",
+        "c. Demonstrate how the purity of a substance can be determined (u)",
+        "d. demonstrate methods by which mixtures can be separated (u, s)",
+        "e compare mixtures and pure substances, mixtures and compound (k, u)",
+        "f. compare miscible and immiscible liquids (n)",
+        "g. understand methods by which miscible and immiscible liquids can be separated (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners: Carry out a discussion on how components of some mixtures can be separated e.g. mixture of iron filings and sulphur powder, Mixture of sand and salt.",
+        "Carry out a group discussion on selecting appropriate scientific methods of separation, such as evaporation, distillation,, filtration, crystallisation and chromatography to separate mixtures"
+      ],
+      "assessmentStrategies": [
+        "Learners classify the following substances into compounds, mixture or elements; oxide, oxygen, hydrochloric acid, air, chlorine, gold, Chlorophyll. In a conversation, let learners give reasons for the answers."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "10",
+      "topicName": "AIR, BURNING AND RUSTING",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Science in Industry",
+      "durationPeriods": 24,
+      "competency": "The learner understands the composition and properties of air and how to keep air clean.",
+      "learningOutcomes": [
+        "a show how air is a mixture and not a compound (0)",
+        "b. know the components of air and their proportions (k, u)",
+        "c know the importance of each of the components of air (u)",
+        "d understand the methods of separation of the major components in air (u, s)",
+        "e determine the percentage of oxygen in air (u, s)",
+        "a. know the properties of oxygen and carbon dioxide (k)",
+        "b. demonstrate how to identify oxygen and carbon dioxide based on their properties (u, s)",
+        "c. know the uses of oxygen and carbon dioxide both in nature and industry (u,v/a)",
+        "a. know the requirements and products of respiration (k)",
+        "b. understand what combustion is, the need of oxygen for combustion and products of combustion (k, u)",
+        "c. Demonstrate how substances such as magnesium, sulphur and carbon undergo combustion (u)",
+        "a. understand the behavior of some substances when exposed to air in terms of absorbing or giving out water (k, u)",
+        "a. understand the meaning of rusting and how it affects iron materials/tools (k, u)",
+        "b. know the conditions necessary for rusting and describe how to show that each condition is necessary for rusting (u)",
+        "c. know the various methods of preventing rusting of iron (u,v/a)",
+        "a. Understand the term air pollution, andidentifies the main examples of air pollutants and their sources (u)",
+        "b. Analyse the effects of air pollution and the steps needed to prevent, control or mitigate air pollution (u,v/a)",
+        "c. Appreciate the value of clean air and practices or habits that keep the air clean (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups and with guidance from the teacher, learners; discuss the composition of air and represent their discussion using a pie chart",
+        "discuss the variation of the composition of air at different surfaces of the earth",
+        "In groups, learners discuss the properties of oxygen and carbon dioxide basing on the following aspects: solubility in water; the effect on: glowing and burning wooden splint, litmus paper, lime water",
+        "In groups, learners; discuss carry out a discussion to explain that during respiration, living things use oxygen and give out carbon dioxide.",
+        "watch simulations of the combustion of some metals and discuss the process of combustion of metals and non- metals",
+        "In groups and with help from the teacher, learners gather information and carry out a discussion on the meaning of deliquescence, efflorescence and hygroscopy",
+        "In groups or as individuals, learners: discuss the different processes that use oxygen in the atmosphere and the importance of these processes",
+        "discuss the effectiveness of different ways of preventing rusting",
+        "In groups, learners discuss: how man is responsible for air pollutants and present a report; the steps needed to control air pollution or ensure clean air and make a report."
+      ],
+      "assessmentStrategies": [
+        "Observe learners drawing a pie chart showing the percentage composition of air by volume. Assess how learners use mathematical knowledge to communicate in science.",
+        "Observe learners carrying out tests to distinguish between oxygen and carbon dioxide. Converse with the learners how they can use the observations of the tests",
+        "Task learners to compare burning and respiration. Assess how learners communicate precisely.",
+        "Task learners to leave a few pellets of sodium hydroxide in the open for a short time. In a conversation, ask the learners to explain what happens to the pellets.",
+        "In a conversation, ask learner to explain scientifically what happens to a hoe or knife that is left outside for a week. Assess how learners communicate scientifically in this case",
+        "Task individual learners to write a newspaper article describing how human activities can lead to air pollution. Assess how learners communicate and express values in this case."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "1",
+      "topicName": "CHEMICAL REACTIONS OF METALS",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Science in Industry",
+      "durationPeriods": 16,
+      "competency": "The learner understands that the reaction of metals can be represented as word equations and their applications in everyday life.",
+      "learningOutcomes": [
+        "a. understand the importance of word chemical equations (u)",
+        "b. read and interpret word equations (u)",
+        "c understand the meaning of reactivity series(u)",
+        "d. use reactivity series to predict how metals react with air, water and acids.",
+        "e. understand how occurrence and uses of metals depend on their properties and these in turn depend on their position in the reactivity series (u,v/a)",
+        "a. understand what alloys are (u)",
+        "b. know the common alloys, their composition and their uses (k, u)",
+        "c. compare the properties of common metals with their alloys (u)"
+      ],
+      "suggestedActivities": [
+        "In groups and with the help of the teacher, learners: write word equations for some processes that occur in daily life",
+        "Write word equations for reactions of metals with water and dilute acids and interpret them",
+        "plan an activity to deduce the reactivity series for common metals based on their reactions with air/oxygen, water/steam and dilute acids.",
+        "Using ICT and other sources, learners search and discuss the difference in the physical properties and chemical composition of a pure metal compared to its alloy."
+      ],
+      "assessmentStrategies": [
+        "Engage learners in a conversation about why the more reactive metals (e.g. Groups I and II metals and aluminium) cannot be extracted by reduction with charcoal. Let learners critique the responses given by their peers.",
+        "Ask learners to compare the use of pure iron and steel in making items like knives and spoons in table form. Assess how learners translate scientific knowledge to everyday use."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "2",
+      "topicName": "STRUCTURE OF ATOMS",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Science in Industry",
+      "durationPeriods": 12,
+      "competency": "The learner appreciates that the smallest units of matter are atoms are, which are sub-divided into smaller particles and the orderliness and uniqueness of atomic structure.",
+      "learningOutcomes": [
+        "a. understand the meaning of an atom (k)",
+        "b. understand the Dalton and Rutherford atomic models (k, u).",
+        "c. represent the structure of the atom and label the subatomic particles (k, u)",
+        "d. understand the meaning of mass number, atomic number, isotope and ions using standard representation (k, u)",
+        "a compare atoms of differentelements (u)",
+        "b. show by means of electronic configuration, the electron arrangement of in atoms for the first twenty elements (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups, and with guidance from the teacher, learners; use ICT and other sources to search and carry out a discussion on what an atom basing on Dalton's and Rutherford's atomic theory",
+        "make models of atoms using locally available materials.",
+        "In groups, learners discuss and write electronic structures of the first 20 elements"
+      ],
+      "assessmentStrategies": [
+        "Task learners to make atomic models for atoms with atomic number 10, 12 and 19 using locally available materials. Observe how learners select the materials and how they work together to put the materials together to get the model.",
+        "Ask groups of learners to write and draw electronic structure of the first twenty elements. Assess aspects of co-operation and leadership as learners proceed with the activity. Check that they have written the correct electron configurations."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "3",
+      "topicName": "NATURE OF SOIL AND SOIL CONSERVATION",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Science in Agriculture",
+      "durationPeriods": 24,
+      "competency": "The learner appreciates soil components and properties in relation to their contribution to life of living organisms, and the need to conserve soil.",
+      "learningOutcomes": [
+        "a. understand what soil is and explain its importance for life on earth (u)",
+        "b. know the soil constituents and identify their functions (k, u)",
+        "c know and state the types of soil (k)",
+        "a. Compare retention, drainage and capillarity in different soil samples (u)",
+        "b. Describe a test to find the pH of a soil sample (u)",
+        "c. Design experiments to find the percentage of air, water and humus in a soil sample (u, s)",
+        "a know the features of a fertile soil (k)",
+        "b. understand the meaning of soil erosion and identify its agents and types (k, u)",
+        "cassess the causes of loss of soil fertility (u, v/a)",
+        "d. analyse the effectiveness of the methods of soil conservation (u, s, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners search and: discuss the role of each of the soil constituents in enabling the existence of other living organisms",
+        "feel three different soil samples(clay, sand and loam) separately and record their observations based on the size and texture of particles in each soil sample",
+        "In groups, learners; feel the two types of soils provided (Clay and Sand) and transfer equal amount of each soil type to a funnel on a beaker (set- up by teacher).",
+        "pour measured amounts of water onto each soil. Leave the experiment for 10 minutes. Discuss the observations.",
+        "In groups, learners discuss design simple experiment to demonstrate a chosen type of soil erosion and make a report",
+        "research and write a report on the different methods used to maintain soil fertility and to conserve soil in the following regions of Uganda: Lake Victoria basin, Kigezi highlands, Karamoja region"
+      ],
+      "assessmentStrategies": [
+        "Design and report on a simple experiment to show that soil is a water filter. Task learners to write the procedure for the above report, the observations and deductions made.",
+        "Ask learners to use a set of data to calculate the percentage of air and water in different soil samples. Observe how the learners substitute data in a stated formula and how they simplify the expressions to obtain the final answer.",
+        "Design a project to show that crop growth is different in different soil types. Use the following crops: Carrots, Yams (suckers), Green or chilli pepper. Assess the learners' report for procedure, observations, deductions and any precautions"
+      ],
+      "ictSupport": null,
+      "notes": "Note: The actual (quality) soil types should be used for experiments"
+    },
+    {
+      "topicCode": "4",
+      "topicName": "RECYCLING OF MATERIALS",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Science and the Environment",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates how vital substances are recycled to maintain life.",
+      "learningOutcomes": [
+        "a. know the sources of water as a natural resource, its physical and chemical properties and importance in everyday life (k,)",
+        "b. understand the role of the Sun in providing the energy to drive the water cycle and represents the water cycle diagram (u)",
+        "c understand the process of water and sewage treatment (u)",
+        "d. apply scientific knowledge of the action of putrefying bacteria to the treatment of pit latrines (u)",
+        "a. understand the meaning of carbon cycle (n)",
+        "b. understand the role of fungi and bacteria in the decay of organic waste materials and represent the exchange of carbon within organisms diagrammatically(u)",
+        "c. prepare organic fertilisers for plants using recycling of plant waste (u)",
+        "a. understand the meaning of nitrogen cycle (k, u)",
+        "b. analyse processes by which nitrogen is fixed and removed from the soil (u)"
+      ],
+      "suggestedActivities": [
+        "In groups and with guidance from the teacher learners: use the listed materials to design an experiment to obtain clear water from muddy water: sand, small stones, charcoal, empty plastic bottle, course materials",
+        "design a poster of the process of sewage treatment, showing the importance of each step",
+        "In groups, learners; construct a compost container from locally available materials such as sticks, and fill it with organic waste such as banana peelings, coffee husks, tea bags, maize leaves, etc. then they leave the waste to decompose and write a report about the steps you went through",
+        "Read about the symbiotic and non- symbiotic methods of nitrogen fixation and make a report"
+      ],
+      "assessmentStrategies": [
+        "Design and report on a simple experiment to show that soil is a water filter. Task learners to write the procedure for the above report, the observations and deductions made.",
+        "observe learners discussing the exchange of carbon and its compounds in the environment.",
+        "Explain how nitrogen is exchanged between living things and nature. Critique the responses of the learners."
+      ],
+      "ictSupport": null,
+      "notes": "Note: The actual (quality) soil types should be used for experiments"
+    },
+    {
+      "topicCode": "5",
+      "topicName": "NUTRITION IN GREEN PLANTS",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Science in Agriculture",
+      "durationPeriods": 12,
+      "competency": "The learner understands that plants are capable of making their own food from simple compounds like water and carbon dioxide.",
+      "learningOutcomes": [
+        "a. understand the process of photosynthesis (u)",
+        "b. know the raw materials, conditions and products of for photosynthesis (k)",
+        "c. demonstrate that photosynthesis takes place in a leaf (u, s)",
+        "d. understand the adaptations of a leaf to carry out the process of photosynthesis (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups/pairs, learners: discuss how they would determine that photosynthesis has taken place in a leaf",
+        "feel a leaf and describe how it is adapted for photosynthesis (Broadness, thickness and veins)"
+      ],
+      "assessmentStrategies": [
+        "Describe the reasons for spacing crops in relation to photosynthesis. Assess how learners relate this agricultural practice to scientific knowledge."
+      ],
+      "ictSupport": null,
+      "notes": "Note: Internal adaptations of a leaf for photosynthesis NOT required"
+    },
+    {
+      "topicCode": "6",
+      "topicName": "HUMAN DIET",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Science for Health and Safety",
+      "durationPeriods": 20,
+      "competency": "The learner understands the implication of their diet and plan the different diets for different categories of people.",
+      "learningOutcomes": [
+        "a know the meaning and purpose of nutrition (k)",
+        "b. identify the different food nutrients, their sources and uses to humans (k)",
+        "c understand the various food deficiency symptoms (u)",
+        "d analyse the concept of balanced diet in relation to age, sex and an individual's activity (u, s, gs)",
+        "e calculate body mass index (BMI) and explainits implications (u, s)",
+        "f assess the dangers associated with common eating disorders (obesity, bulimia and anorexia) and use of drugs (diet pills and steroids) to change body image (u, v/a)",
+        "g analyse the factors that lead to famine and hunger in some communities and suggests how famine may be minimised(u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups/pairs, learners: design a balanced diet for one day for the following categories of people and explain why it is the most suitable: A one-year old baby; A 15-year-old boy; A pregnant mother; An eighty-year-old person",
+        "measure their weight (kgs) and height (cm) and use the results to calculate their BMI. With reference to the standard BMI chart they determine their BMI status",
+        "listen to a talk/recording on self-esteem in relation to physical differences in body shape and size."
+      ],
+      "assessmentStrategies": [
+        "Write a message advising the public about the negative effects of adverts pressuring people to change body shape.",
+        "Identify and explain the categories of people that are likely to be affected by famine."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "7",
+      "topicName": "FOOD SPOILAGE AND PRESERVATION",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Science for Health and Safety",
+      "durationPeriods": 10,
+      "competency": "The learner recogonises how food goes bad and the various methods of preserving different kinds of food.",
+      "learningOutcomes": [
+        "a. know the causes of food spoilage (k)",
+        "b. understand the factors that promote growth of micro-organisms on food (u)",
+        "c. assess the methods of preventing food spoilage in various foods e.g. milk, fish, meat, fruits, vegetables and cereals (u, v/a)",
+        "d. understand the principles and methods of food preservation (u)",
+        "a. identify the symptoms of food poisoning and devise possible ways of helping someone who has had food poisoning (u, s, gs, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups/pairs and with guidance from the teacher, learners: discuss the causes of food spoilage in a Ugandan home and how food spoilage can be prevented",
+        "discuss the traditional methods used in preserving the following types of foods and make a report: Milk, Meat, Fish, Cassava"
+      ],
+      "assessmentStrategies": [
+        "Outline the practices in personal and kitchen hygiene that prevent food spoilage as practiced in their homes. Let learners critique the merits and demerits of the methods outlined.",
+        "Explain how the following principles work in food preservation: Heat treatment, Cold storage, Drying"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "8",
+      "topicName": "OUR BODY SYSTEMS AND THEIR FUNCTIONS I",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Science of the Human Body",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates that the digestive, circulatory and respiratory systems perform different functions to sustain life.",
+      "learningOutcomes": [
+        "a. know what enzymes are and understand their properties (Details of how enzymes work NOT required) (k, u)",
+        "b. understand the effect of pH and temperature on enzyme activity (u)",
+        "c understand the types, structures, arrangement, and functions of teeth in humans (u, s)",
+        "d. describes the care for teeth in humans (u, s)",
+        "a. understand the parts of the digestive system and heir functions (k)",
+        "b. understand what happens during the process of digestion and identify its products (u)",
+        "c understand how the end products of digestion are absorbed and assimilated (u)",
+        "a. know the parts/organs that make up the human circulatory system (k)",
+        "b. understand the structure of the heart and how it functions (u)",
+        "c. compare the structure and functions of arteries, veins and capillaries (u)",
+        "d. know the components of blood and understand their functions (k, u)",
+        "e. Know the human blood groups and the importance of knowing one's blood group in life (u)",
+        "a understand the need for gas exchange in humans (u)",
+        "b. understand the mechanism of gas exchange in humans (u)",
+        "c. understand the adaptations of the lung as an organ of gas exchange and alveolus as a surface for gas exchange (u)",
+        "d. analyse the variation in the percentage composition of gases in inhaled and exhaled air (u, s)",
+        "a know the meaning of respiration and explain the types of tissue respiration (k)",
+        "b. know the importance of aerobic respiration (k)",
+        "c. understand the process of aerobic respiration (k, u)",
+        "d. understand the relationship between plants and animals in relation to respiration and photosynthesis (u)",
+        "a. know the word equation for anaerobic respiration in plants and animals (k)",
+        "b. know the products of anaerobic respiration in plants and animals (k)",
+        "c. identify the various applications of anaerobic respiration in everyday life (k)",
+        "d. understand the difference between aerobic and anaerobic respiration (u)"
+      ],
+      "suggestedActivities": [
+        "In groups/pairs, learners: research and discuss the nature of enzymes and write down the properties of enzymes",
+        "feel, identify and name two structural features of each type of teeth in man",
+        "basing on the observations in (ii) above, explain the adaptations of each type of tooth to its role",
+        "discuss common dental diseases and how they can be prevented.",
+        "In groups, learners identify the parts/organs that are associated with digestion of food in their bodies and highlight their roles",
+        "With guidance from the teacher, learners discuss the following scenario: Some biological washing powders contain lipase. This helps the washing powder to digest fat stains. Biological washing powders should be used in warm but not hot water. Explain why.",
+        "Learners feel the structure of different tubes representing the different blood vessels and describe the following: the thickness of the outer rim; the size of the centre hole. Then they relate the observations to veins, arteries and capillaries and suggest reasons for the differences in thickness of the blood vessels",
+        "In groups, learners: read about the roles of each parts/ organs that are involved in gas exchange (breathing)",
+        "observe themselves breathing in and out and discuss what happens during this process",
+        "discuss how the human exchange gases with the environment.",
+        "Debate the following topic: \"Plants and animals can live and survive entirely independent of each other\" (Base your arguments on scientific facts)",
+        "In groups, learners: research the products of anaerobic respiration in plants and animals and make a report",
+        "write a design for experiments to show fermentation using yeast, and anaerobic respiration in germinating seeds",
+        "discuss and write short notes of applications of anaerobic respiration in everyday life"
+      ],
+      "assessmentStrategies": [
+        "Observe learners engaged in a discussion on the reasons why oral hygiene is important",
+        "Task individual learners to explain the effect of pH and temperature on enzyme activity (u)",
+        "In a conversation, task learners to suggest a reason for each of the following: - the walls of the ventricles have different thicknesses - The pulse is felt in arteries only - Veins have valves. Assess how learners communicate scientifically and effectively.",
+        "Explain what takes place during inhalation and exhalation basing on the observation of their bodies. Observe how learners record what happens to their bodies during these processes.",
+        "In a conversation, ask learners to discuss what happens if the food a person eats contains more energy than one's body needs. Allow learners to critique the responses given by the peers.",
+        "Ask individual learners to compare respiration and photosynthesis in table form. Consider how the learners organize their work and communicate."
+      ],
+      "ictSupport": null,
+      "notes": "Note: Mention the respiratory organs/surfaces for insects and the frog (No details required)"
+    },
+    {
+      "topicCode": "9",
+      "topicName": "FORCES",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Science and Technology",
+      "durationPeriods": 10,
+      "competency": "The learner explores the nature and types of forces, how they affect objects and their uses.",
+      "learningOutcomes": [
+        "a. identify examples of push and pull forces in everyday life and uses them to explain the meaning of force (k, u)",
+        "b. know examples of forces and instances where they occur (k, u)",
+        "c. know common examples of the effects of forces on objects (k)",
+        "a. Understand the terms balanced and unbalanced forces and their effects in everyday life (u)",
+        "b. Solve numerical problems related to the resultant of two or more linear and perpendicular forces (only) acting ona body, using simple mathematical analysis (u, s)",
+        "a. understand the term friction (u)",
+        "b. analyse the effects and uses of frictional forces in everyday life (u)",
+        "cassess the factors that affect friction between two surfaces (s)",
+        "d. devise ways of reducing or increasing friction (u, v/a)",
+        "a. understand what gravity is and why it is less on the moon than on earth (k, u)",
+        "b. understand why objects are attracted to the earth and why the earth revolves around the sun (u)",
+        "c measure weight and mass of the same object and compare them (u, s)",
+        "d solve simple calculations involving the force of gravity (u, s)",
+        "e. appreciate the importance of force of gravity to life on earth (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners push a wooden block along smooth and rough horizontal surfaces into another block or a lump of plasticine and discuss the observations in relation to the effect of the force.",
+        "In groups or as individuals, learners; discuss examples of balanced and unbalanced forces from everyday life and make a report",
+        "carry out a demonstration to show the effects of balanced and unbalanced forces using a wooden block or the tag of war game",
+        "With the help of the teacher, learners: carry out experiments to investigate the factors that affect frictional force between two solid surfaces in contact",
+        "discuss the effects of friction and present a report",
+        "In groups, learners: measure weight and mass of different objects using appropriate instruments and use the results to explain the relationship between mass and weight",
+        "calculate his/her own weight on earth and what it is expected to be on the moon and compares the two values."
+      ],
+      "assessmentStrategies": [
+        "Using two springs, a stretched one and a compressed one, learners debate the effects of a pulling force and a pushing force. Consider how learners express themselves and how they respond to others' responses in a peer assessment",
+        "A car got stuck on a bad road. two people tried to push it in the same direction but the car did not move. Explain. when a third person joined them to pull from the front, the car started moving. Task learners to explain why it happened like that.",
+        "Task learners to explain, in brief write up, the following observations in relation to friction: grease is applied to the moving parts of a machine; car tyres become smoother and thinner with time; it is easier to write with a pencil on paper than on glass.",
+        "The force of gravity on the moon is only about one-sixth that on earth. Learner completes the following table about a person who travels to the moon and explains, in a conversation, why the answers appear that way: ON EARTH Mass 90kg Weight - ON THE MOON Mass - Weight -"
+      ],
+      "ictSupport": null,
+      "notes": "1. Treatment of F=ma not required at this point. 2 Both scale drawing and mathematical (Pythagoras theorem) method can be used to obtain the resultant force of perpendicular forces. 3. The angle at which the resultant is inclined is not required. 4. Only the qualitative treatment of friction is required. 5. The use of the expression W=mg to be emphasized"
+    },
+    {
+      "topicCode": "10",
+      "topicName": "WORK, ENERGY AND POWER",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Science and Energy",
+      "durationPeriods": 14,
+      "competency": "The learner understands the relation between force, distance moved and time in relation to work, energy and power and the various sources of energy.",
+      "learningOutcomes": [
+        "a understand the meaning of the terms work, energy and power and states how they are related (k, u)",
+        "b. know the units of each of the quantities above and defines them (k, u)",
+        "c identify some examples of work being done on an object in everyday life (u)",
+        "d. solve simple numerical problems on work done and power developed(u, s)",
+        "a know energy resources with respect to Uganda (k)",
+        "b. understand the concept of renewable / non-renewable energy sources and their effects on the environment (u)",
+        "c know the forms of energy and state the law of conservation of energy, with relevant examples (k, u)",
+        "d identify everyday examples of energy transformation (u)",
+        "e appreciate the various ways of energy conservation for the future (u,v/a)",
+        "a. understand the meaning of mechanical energy and describe instances in which potential energy is converted to kinetic energy and vice-versa (k, u)",
+        "b. identify the energy changes that take place in a swinging pendulum and other phenomena (u)",
+        "c solve simple numerical problems involving mechanical energy (u,s)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: lift blocks or bricks of different masses through different distances and calculate the work done in each case",
+        "use their results above to discuss the factors that determine the value of work done",
+        "lift blocks of known mass through a known distance in a given time and calculate the power developed",
+        "In groups, learners: debate the merits and demerits of the various energy resources with respect to Uganda and make a report",
+        "burn a few pieces of wood, paper or a little paraffin and discuss the challenges associated with bio-fuels",
+        "discuss methods of conserving energy for the future in relation to Uganda and make a report",
+        "In groups, learners drop a small object to the ground and identify all the energy forms that take place."
+      ],
+      "assessmentStrategies": [
+        "Task learners to calculate the work done and the power developed when a student lifts a weight of 800 N through a height of 10 m in 48 s. Critique how the learners identify the quantities, the formula to use, the substitution and how the final answer is stated.",
+        "Learners, in a conversation, identify the energy transformations that take place: at a waterfall, when fruit falls to the ground from a tree and when a generator is used to provide light. Allow learners to critique the responses given by their peers",
+        "Solve the problem: A brick of mass 0.5 kg falls from the top of a wall 20m high. Ignoring any friction as the brick travels through the air, calculate: the kinetic energy of the brick as it hits the ground and the velocity of the brick as it hits the ground. Critically assess how the leamers follow the steps in this numerical problem, involving the use of the calculator and the substitutions they make."
+      ],
+      "ictSupport": null,
+      "notes": "Note: Derivation of P.E=mgh and KE=1/2 mv^2 not required but only their use in calculating these energies"
+    },
+    {
+      "topicCode": "11",
+      "topicName": "TURNING EFFECT OF FORCES, CENTRE OF GRAVITY AND STABILITY",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Science and Technology",
+      "durationPeriods": 20,
+      "competency": "The learner investigates how turning effect of forces is related to stability of bodies.",
+      "learningOutcomes": [
+        "a. know daily applications of tuning effect of forces (u)",
+        "b. investigate factors that determine turning effect (u, s)",
+        "c. investigate balanced and unbalanced moments, their applications and deduces the meaning of equilibrium (u)",
+        "d. verify the principle of moments and apply it in determining the mass/weight of rods and other objects experimentally (u, s)",
+        "e. Solve simple numerical problems related to balanced moments (u, s)",
+        "a. carry out an activity to determine the centre of gravity of a lamina of uniform and non-uniform shape (u, s)",
+        "b. relate the position of the centre of gravity to the stability of objects, and how this is taken into account when designing an object, e.g. a bus, a racing car etc. (u,v/a)",
+        "c. explore the general conditions for a body to be in mechanical equilibrium (u)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: balance a meter rule on a knife edge and use this observation to: Discuss the meaning of balanced moments, unbalanced moments and equilibrium; Discuss the principle of moments",
+        "raise a log at different positions from the fixed end/pivot and use this activity to determine the factors that determine turning effect",
+        "In groups, learners: cut cardboards of different irregular shapes and carry out activity to locate the centre of gravity of the cardboards. The learners then try to check for the actual centre of gravity of the cardboards by balancing"
+      ],
+      "assessmentStrategies": [
+        "Ask learners to find out how far from the pivot of a seesaw a student of mass 80 kg should sit in order to exactly balance a student of mass 60 kg who is sitting 2 m from the pivot. Observe how learners interpret the given data and substitute in an expression and then how they obtain the final answer.",
+        "Observe team work, leadership skills, organisational skills, and other practical skills as learners determine the mass of al metre rule using a single mass and a knife edge.",
+        "Task learners in a conversation, to explain why buses with loads in the underside boot are more stable than those where the load is in the rack at the top. Ask learners to narrate their experience in relation to loading vehicles and allow learners to critique their peers"
+      ],
+      "ictSupport": null,
+      "notes": "Note: 1. Examples on moments should involve one or two pivots only. 2. Variety of examples and practical activities using a metre rule are recommended"
+    },
+    {
+      "topicCode": "12",
+      "topicName": "SIMPLE MACHINES",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Science and Technology",
+      "durationPeriods": 18,
+      "competency": "The learner investigates how simple machines are used to make work easier and their applications.",
+      "learningOutcomes": [
+        "a. explain the term simple machines and the terminologies related to them (u)",
+        "b. demonstrate how simple levers, the wheel and axle, pulleys, inclined plane, gear system and screw work and state their applications (u, s)",
+        "c solve simple numerical problems involving mechanical advantage, velocity ratio, efficiency and power losses of simple machines (u, s)",
+        "d. understand why practical machines cannot be 100% efficient and devise means of achieving a high efficiency in machines(u, v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: are provided with a variety of levers such as pliers, opener, knife etc. or their pictures.",
+        "Using positions of load, effort and fulcrum, learners classify the levers into 1st class levers, 2nd class levers and 3rd class levers and explain the criteria used",
+        "make an inclined plane and discuss how it simplifies raising heavy loads on a vehicle"
+      ],
+      "assessmentStrategies": [
+        "Learners explain the causes of power loss in simple machines and how it can be minimised.",
+        "This should be done using practical examples and learners analysing themselves honestly"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "13",
+      "topicName": "HEAT TRANSFER",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Science and Energy",
+      "durationPeriods": 20,
+      "competency": "The learner understands the modes of heat transfer and their applications.",
+      "learningOutcomes": [
+        "a. investigate how heat is transferred by conduction and compares the rates of conduction of heat in different solids (u, s)",
+        "b. assess applications of good and bad conductors (u)",
+        "c understand the everyday applications of convection in liquids and air (u)",
+        "d. understand the causes and effects of convection currents in the atmosphere and their relation to weather/climate (u,v/a)",
+        "e. understand heat conduction and convection in terms of particle theory (u)",
+        "f understand how heat is transferred by radiation and design an experiment to compare the radiation of heat from different surfaces (u)",
+        "g. identify examples of radiation of heat in everyday life and their applications (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: hold one end of a metallic material such as a knife in a fire flame and discuss what happens",
+        "put water in a volumetric flask and add coloured material. Then they apply a small flame at the bottom and discuss what they observe",
+        "carry out a project to compare the absorption or reflection of radiant energy by different surfaces",
+        "discuss how heat transfer is kept to a minimum in a vacuum flask"
+      ],
+      "assessmentStrategies": [
+        "In a conversation, task learners to identify the examples of the applications of heat energy transfer by conduction, convection and radiation and allow for peer assessment"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "1",
+      "topicName": "ACIDS, BASES AND SALTS",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "Science in Industry",
+      "durationPeriods": 22,
+      "competency": "The learner appreciates the properties and importance of acids, bases and salts in everyday life.",
+      "learningOutcomes": [
+        "a. know the simple properties that characterise acids and alkalis (k)",
+        "b. use the above characteristics to classify the many locally available substances as acidic or alkaline (u)",
+        "c. identify the differences between bases and alkalis (u,v/a)",
+        "a understand how indicators can be prepared from locally available materials and uses them to show that a solution is acidic or alkaline (u, s)",
+        "b. understand the difference in acid and alkaline strength using pH scale and how this influences their use (u)",
+        "c demonstrate the reaction between acids alkalis and carbonates (k, u)",
+        "a. know the uses of common salts in everyday life (k, u)",
+        "b. classify salts on the basis of their solubility (n)",
+        "c understand the terms hydrated, anhydrous and water of crystallisation (u)",
+        "d. know examples of hydrated and anhydrous salts (k)",
+        "e estimate percentage of water of crystallization in hydrated salts (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups and with the help of the teacher, learners identify the common characteristics of acids and alkalis (e.g. the sharp taste of acids such as lemon juice and vinegar, the bitter taste of alkalis such as ash filtrate from banana peel, and the soapy feel of alkalis).",
+        "In groups, learners: prepare indicators from plant extracts (flowers, leaves or roots) and describe how common solutions can be tested for acidity (e.g. lemon juice, vinegar, papaw leaf extract) or alkalinity (e.g. ash filtrate).",
+        "carry out a discussion to explain the reaction between acids and alkalis to produce salts and water.",
+        "In groups or as individuals, learners; match each of the salts to its everyday use given in the list below: sodium chloride, sodium hydrogen carbonate, barium sulphate, ammonium nitrate, copper(II) sulphate (Disinfectant, Paint, Fungicide, Baking, Preserving food, fertilizer)",
+        "carry out an experiment to show that some salts contain water of crystallisation"
+      ],
+      "assessmentStrategies": [
+        "Task learners to state whether the following solutions are acidic or alkaline: Extract from an orange, Solution of salt, Vinegar, Extract from pawpaw leaves, Filtrate from mixture of ash and water. In a conversation ask learners what they base on to make such classification.",
+        "Task learners, basing on simple tests to classify the following substancesas shown in the table: dilute hydrochloric acid, sodium hydroxide solution, extract from orange, solution of salt, vinegar, extract from pawpaw leaves, filtrate from mixture of ash and water, distilled water. In a conversation, ask learners to discuss the difference between soluble and insoluble salts, using examples to support their discussion."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "2",
+      "topicName": "OUR BODY SYSTEMS AND THEIR FUNCTIONS II",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "Science of the Human Body",
+      "durationPeriods": 50,
+      "competency": "The learner appreciates the different functions that excretory, hormonal and nervous, skeletal and reproductive systems perform to sustain life.",
+      "learningOutcomes": [
+        "a. understand the term excretion (u)",
+        "b. know the organs and parts involved in the removal of excretory products from humans and lists which products are removed (k, u)",
+        "c. understand the processes of removing urea and how urine can be properly disposed and managed (u, s)",
+        "d know the meaning of homeostasis (u)",
+        "e. Understand how the levels of carbon dioxide, sugar and temperature are maintained in humans (u)",
+        "a know what a hormone is and identify the various endocrine glands and the hormones they secrete (k, u)",
+        "b. understand the effects of the various hormones in the human body (u, v/a)",
+        "a know the parts of the brain and state the role of the main parts of the brain (limited to: cerebrum, cerebellum, medulla oblongata, pituitary, hypothalamus) (k, u)",
+        "b. identify the five components which make up the reflex arc and state the role of each part (u, v)",
+        "c understand the voluntary or involuntary responses made by humans (k, u)",
+        "d. describe the concept of reflex action (u)",
+        "a. know the parts of a human eye and their functions (k)",
+        "b. understand how the human eye works (details not required) (k, u)",
+        "c. understand how short and long sightedness occur and how they can be corrected (k,u)",
+        "d. identify the parts of a human ear and their functions (k, u)",
+        "e. understand how the human ear works during hearing (u)",
+        "a. know the types of skeletons and their function (k, u)",
+        "b. know and describe the two divisions of the human skeleton (k, u)",
+        "c understand the meaning of a joint and identify and describe the different types of joints and their functions (u)",
+        "d. know antagonistic muscles and describe how they bring about movement (k, u)",
+        "e analyse the causes, effects and preventive measures of muscle cramps (u)",
+        "a. know the parts and organs constituting the male and female reproductive systems and their roles in reproduction (k,u)",
+        "b. compare male and femalegametes(u)",
+        "c. Understand the changes that take place during the menstrual cycle(u)",
+        "d. understand the process of fertilization of an ovum and the developments of thezygote up to birth(u, v/a)",
+        "e analyse the importance of a pregnant woman visiting a doctor regularly(antenatal medical visits) (u)",
+        "f analyse the factors that lead to early pregnancies, and how they can be ninimised (u)",
+        "g understand the health risks/complications associated with early/teenage pregnancy and abortion (u,s, v/a)",
+        "h. understand the care for the baby after birth (breast feeding, balanced diet, immunization and hygiene) (u,s)",
+        "i identify the common birth control methods in Uganda and gives the biological principle they employ and their effectiveness. (Note: The ONLY method recommended for young people is abstinence) (u, s, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners: discuss and write down the organs involved in the removal of urea from the body",
+        "discuss alternative ways how human urine can be used without posing danger to the environment",
+        "In groups, learners discuss the role of hormones in the regulation of reproductive and sexual functioning in adolescent boys and girls particularly secondary sexual characteristics",
+        "In groups, learners; list things they usually do e.g. singing, swallowing, blinking, movement of food along the alimentary canal etc. and categorize them as those they control or have no control.",
+        "create an Analogy showing the similarity between the CNS and the post office mailing system. The learner will fill in the analogy chart",
+        "In groups, learners: make models of the human eye and label it as much as possible",
+        "discuss the parts of the human eye andtheir functions",
+        "make a chart of the human ear and discuss the parts of the human ear and their functions",
+        "In groups or as individuals, learners: observe, and record the differences between the cervical, thoracic and lumbar vertebrae and draw them",
+        "using their bodies, identify and discuss the different types of movable joints on the human skeleton",
+        "bend and stretch the arm as they feel and locate the muscles on the arm and how they work to bring about the bending and stretching movement",
+        "discuss complications associated with skeletal system and the best ways of taking care of their skeletal system",
+        "In groups or as individuals, and with guidance from the teacher, learners; discuss the variation of LH and FSH, oestrogen and progesterone and thickening of uterine wall with time in days",
+        "discuss and explain the events of the female menstrual cycle",
+        "discuss the role of the placenta and how is it adapted to perform its function?",
+        "research about and write a report on the common birth control methods used in Uganda, the biological principle they employ and their effectiveness"
+      ],
+      "assessmentStrategies": [
+        "You are campaigning to be a health prefect in you school, write a campaign speech about how you plan to manage human wastes like urine for a healthy environment.",
+        "In a conversation, task learners to state the effects of the various hormones in the human body. Allow leamers to critique the responses of peers.",
+        "Ask learners to state the functions of the brain in a brief write up and how they make the body of humans stable. Assess how the learners communicate in this case.",
+        "Ask the learner to write a verbal instruction being given. In a conversation, discuss with learners the sense organs used in this exercise.",
+        "Task learners to use the knowledge of physics to identify the different lever systems in a human being. Observe how they move their different body parts to identify the levers.",
+        "Ask learners to list life skills that can help adolescents to avoid early age pregnancy. Assess how they communicate values in their write up. In a conversation, ask learners to outline the risks associated with abortion."
+      ],
+      "ictSupport": null,
+      "notes": "Functions of skeleton limited to: Protection, Muscle attachment, Manufacture of blood cells, Support and Provision of body frame work with a brief illustration of example(s) in each case."
+    },
+    {
+      "topicCode": "3",
+      "topicName": "INFECTIONS AND DISEASES",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Science for Health and Safety",
+      "durationPeriods": 24,
+      "competency": "The learner appreciates the communicable and non-communicable diseases in society and how they can be minimised.",
+      "learningOutcomes": [
+        "a. understand the term disease (u)",
+        "b. know the common pathogenic (infectious/ communicable diseases) and describe their symptoms. (malaria, Tuberculosis, Syphilis, Gonorrhoea, Candida, Human Papilloma Virus (HPV), Hepatitis B, HIV/AIDS, Typhoid, Cholera, Ebola) (k)",
+        "c. understand the causes, mode of transmission, prevention and control of some common human pathogenic diseases. (Note: The ONLY preventive method for STIs/HIV/AIDS recommended for young people is abstinence) (u,v/a)",
+        "d. analyse the challenges faced by People Living with HIV/AIDS and how to overcome them (u)",
+        "e. know the common diet deficiency/ related diseases in humans, their symptoms and prevention (Goitre, rickets, Anaemia, kwashakior, scurvy, marasmus) (k, u)",
+        "f identify common heredity diseases in humans (Sickle cell anaemia, haemophilia and colour blindness) describes their symptoms (k, u)",
+        "g. know common physiological diseases in humans (Bronchitis, lung cancer, high blood pressure, diabetes, liver damage), describes their symptoms and how to prevent them (u,s,v/a)",
+        "h. Identify common abnormalities associated with reproductive systems (u)",
+        "i. appreciate the healthy and unhealthy lifestyles and how they affect society (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners: listen to a resource person or recording about how a known communicable disease is spread and how it can be prevented",
+        "research the transmission and prevention of HIV, Ebola, and Hepatitis. Write and present a report on the findings"
+      ],
+      "assessmentStrategies": [
+        "Ask learners to make a presentation to a group of youths on one communicable disease using the name of disease, causes, modes of transmission, symptoms, prevention and control",
+        "Task individual learners to make a poster with a message to stop the spread of either AIDS or Ebola. Assess how learners effectively communicate and the values they develop"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "4",
+      "topicName": "SUBSTANCE/DRUG USE AND ABUSE",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Science for Health and Safety",
+      "durationPeriods": 16,
+      "competency": "The learner appreciates the different types of substances used as drugs in society and the dangerous consequences that they have on life.",
+      "learningOutcomes": [
+        "a. know the difference between substance/ drug use and abuse (k, u)",
+        "b. know the common substances and drugs abused in Uganda (u)",
+        "c. understand the factors that lead people to abuse drugs (u)",
+        "d. appreciate the physiological, social and economic effects of substance and drug abuse(Alcohol, cigarettes, marijuana, kuber, shisha, khat, petrol/glue) and any other forms of drugs (u, v/a)",
+        "e. appreciate the prevention and control substance and drug abuse (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, and with guidance from the teacher, learners: discuss the physiological, social and economic effects of substance and drug abuse",
+        "discuss reasons why young people are involved in alcohol, drug and substance abuse",
+        "design strategies for a campaign on the prevention and control of substance and drug abuse in: a. Schools; b. Village communities"
+      ],
+      "assessmentStrategies": [
+        "Suggest practical ways they can put in place to stop substance and drug abuse among the youth."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "5",
+      "topicName": "PRESSURE IN SOLIDS AND FLUIDS",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Science and Technology",
+      "durationPeriods": 18,
+      "competency": "The learner investigates pressure in solids and fluids and its implication in everyday life",
+      "learningOutcomes": [
+        "a. understand the meaning of pressure and show how its units are obtained (k, u)",
+        "b. investigate minimum and maximum pressure and its application (k, u)",
+        "c. solve simple numerical problems involving the equation: pressure = force/ area (u, s)",
+        "a. investigate the effect of depth on fluid pressure using a bottle of water with holes made on the side at (i) at different heights (ii) same depth (u, s)",
+        "b. investigate pressure changes in a flowing fluid in (i) shallow and deep regions (ii) narrow and wide regions (u, s)",
+        "c. investigate the transmission of fluid pressure and its application in hydraulic machines (u, s)",
+        "a. Understand the existence of atmospheric pressure and solve simple numerical problems related to atmospheric pressure (u, s)",
+        "b. Demonstrate the construction of a simple mercury barometer and explain how it measures atmospheric pressure (u, s)",
+        "c. understand the causes of the daily variations in atmospheric pressure and its effect on weather, climate, high altitude climbers, divers etc. (u, s)",
+        "d. appreciate the applications of atmospheric pressure in drinking straw, syringe, siphon and pumps (u,s,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: place different faces of the same rectangular brick/block onto a ball of plasticine or clay and compare how much the plasticine/clay is squashed by the different faces",
+        "measure the length, width and thickness of a rectangular block/ brick. Then they measure its mass and use these readings to calculate the least and greatest pressure it exerts on a smooth table.",
+        "In groups, learners: make holes on a used water bottle at different/same depth and pour water into the bottle. Then they discuss what they observe",
+        "demonstrate the hydraulic press using straws and syringes and discuss its applications",
+        "explain why rivers flow fastest at narrow sections than at the wider sections, though the volume of the liquid does not change",
+        "In groups and with guidance from the teacher, learners: plan and carry out an activity to demonstrate the existence of atmospheric pressure using crushing can, Siphoning, Partial vacuum",
+        "discuss the variation of atmospheric pressure with altitude and its implication on their health",
+        "carry out activities to measure atmospheric pressure using different barometers"
+      ],
+      "assessmentStrategies": [
+        "Task learners explain using knowledge of pressure, why farm tractors have large back wheels with wide tyres, and whya hippo can more easily walk in mud than a goat",
+        "Ask learners calculate the pressure a drawing pin exerts in a soft board if tip area is 1 mm2 and the force used to push it is 2 N. Assess how the units are harmonised, the formula used, the substitution, the way calculator is used in simplifying the figures.",
+        "Explain why the pressure at a depth of 10 m in the sea is higher than that on the surface and its implication. Suggest reasons why dams are built so that they become increasingly thicker from top to bottom.",
+        "Explain the following observation using atmospheric pressure: A small amount of boiling water was poured into an empty plastic bottle and the cap was placed on tightly, the sides of the bottle started to collapse as the hot water cooled. On a peer basis, learners assess how scientific knowledge is used in this discussion"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "6",
+      "topicName": "EXPANSION OF SOLIDS, LIQUIDS AND GASES",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Science and Energy",
+      "durationPeriods": 14,
+      "competency": "The learner explores the effect of heat on solids, liquids, and gases in relation to their use in everyday life.",
+      "learningOutcomes": [
+        "a know the meaning of expansion and what causes it (k, u)",
+        "b. demonstrate experiments to show that expansion occurs in solids and liquids (u, s)",
+        "c. understand daily observations of expansion of gases e.g. bursting of balloons and tyres during hot weather (u)",
+        "d. understand the applications of expansion of materials in everyday life (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners; plan and carry out activities to show that when solids, liquids and gases are heated they expand and present a report",
+        "carry out an activity to investigate and compare the rates of expansion of solids and liquids and discuss the applications of the results"
+      ],
+      "assessmentStrategies": [
+        "Explain why gases expand more easily than solids and liquids at the same temperature",
+        "Explain why tyres are safer when driving at night than during hot day on the same road surface and making a brief report. Allow for peer assessment of the responses of learners"
+      ],
+      "ictSupport": null,
+      "notes": "Note: Gas laws and related calculations are not required"
+    },
+    {
+      "topicCode": "7",
+      "topicName": "LINEAR AND NON-LINEAR MOTION",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Science and Technology",
+      "durationPeriods": 26,
+      "competency": "The learner should be able to use the data from measuring distances to calculate the speed and velocity of moving objects in everyday life.",
+      "learningOutcomes": [
+        "a estimate how events such as: a person walking, a person riding a bicycle anda person travelling in a car between two known towns and others etc. can take (u, s)",
+        "b understand the terms distance, displacement, speed, average speed, velocity and acceleration (k, u)",
+        "c know the meanings of the terms uniform velocity' and 'uniform acceleration' (u)",
+        "d solve simple numerical problems related to linear motion (u, s)",
+        "1. understand the meaning of acceleration due to gravity and its effects of life on earth (u J,v/a)",
+        "2 describe motion of objects under gravity (u,s)",
+        "3. analsye motion of a body falling ina viscous fluid (u, s)",
+        "4. assess the effects of air resistance on motion (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups or as individuals and guided by the teacher, learners; mark two points which are 100 m apart on a playing field. They measure the time taken by a student walking, running and riding a bicycle between the points",
+        "calculate the average speed of the student in each of the cases above",
+        "discuss the motion of an accelerating object",
+        "Learners; project small bodies upwards and discuss the motion of the objects and discuss the implications of the value of acceleration due to gravity to life on earth",
+        "discuss what happens to velocity and acceleration of bodies moving in a circle and where it occurs"
+      ],
+      "assessmentStrategies": [
+        "Task learners in a conversation to interpret the graph shown below (describing the motion of a body as shown by the graph). Assess how learners use the concepts of uniform velocity and uniform acceleration in this activity",
+        "Task leamers to describe (using sketch graphs where possible) what happens to velocity and acceleration when a body is falling under gravity or moving in a viscous fluid. Assess how learners label the axes, how they represent the variables and interpret the graphs"
+      ],
+      "ictSupport": null,
+      "notes": "Note: The derivation of the equations of motion is not required but only their applications in solving numerical problems should be done"
+    },
+    {
+      "topicCode": "8",
+      "topicName": "NATURE OF LIGHT, REFLECTION AND REFRACTION AT PLANE SURFACES",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Science and Energy",
+      "durationPeriods": 26,
+      "competency": "The learner understands the natural and artificial sources of light and how they behave.",
+      "learningOutcomes": [
+        "a. know the natural and artificial sources of light (k)",
+        "b. demonstrate that light travels in a straight line (u, s)",
+        "c understand the formation of shadows (u, s)",
+        "d. understand how eclipses are formed (u)",
+        "a know the laws of reflection of light at a plane surface (k)",
+        "b. identify applications of plane mirrors and states the properties of images formed (u)",
+        "c compare regular and diffuse reflection (u)",
+        "d solve simple numerical problems on the reflection of light from a plane surfaces, using distances and angles (u, s)",
+        "a. understand the cause and effects of refraction of light (u)",
+        "b. know the laws of refraction of light (k)",
+        "c appreciate the applications of refraction of light ( (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners: describe, using a model, the arrangement of the sun, moon and the earth during an eclipse",
+        "use ICT to search for the occurrence of eclipses and discuss what causes an eclipse",
+        "As individuals or in groups, and with guidance from the teacher, learners; discuss the properties of images formed by plane mirrors.",
+        "describe the relationship between the angle of incidence and the angle of reflection",
+        "As individuals or in groups, and with guidance from the teacher, learners describe the path of light as it travels from an optically denser medium to a less dense medium"
+      ],
+      "assessmentStrategies": [
+        "In a conversation, learners describe the movement of the earth and the moon around the sun leading to the formation of eclipses. Teacher assesses the confidence of the learners.",
+        "Learners determine how far the image is behind the mirror from this kind of data: An object X is 4 cm behind a second object Y. Object Y is 6 cm from a plane mirror. Learners critique the arrangement of the diagram used to solve such a problem",
+        "Task learners to: 1. State the laws of refraction of light. 2. Explain the cause of refraction of light."
+      ],
+      "ictSupport": null,
+      "notes": "Note: Calculations involving refractive index are not required"
+    },
+    {
+      "topicCode": "9",
+      "topicName": "ECOSYSTEMS",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Science and the Environment",
+      "durationPeriods": 20,
+      "competency": "The learner understands how living and non-living organisms relate to one another and the impact of human activities on the climate and environment.",
+      "learningOutcomes": [
+        "a. identify and describe the different types of ecosystems (u)",
+        "b. understand the following ecological terms habitat, niche, population, community, producer, consumer and decomposer (k, u)",
+        "a. know the meaning of food chain and food web (u)",
+        "b. assess the significance of food chains and food webs in different ecosystems (k, u)",
+        "c understand the energy flow in the food chain (u, s)",
+        "a know the meaning of competition and state the types of competition (k, u)",
+        "b. understand prey-predator relationship (u)",
+        "c understand the terms symbiosis, mutualism, commensalism and parasitism (k, u)",
+        "d. identify the common diseases caused by parasites that affect humans, livestock and crops, how they are spread and how they can be controlled (k, u, v/a)",
+        "e. analyse the adaptations of parasites to their mode of life (u, k)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners: discuss the main physical features of Uganda and identify the ecosystems, stating their distinguishing features.",
+        "listen to documentary on a given ecosystem and classify the components in it as living or non-living",
+        "With guidance from the teacher, learners; listen to a narration of the interactions between organisms in a habitat around the school: develop food chains and a food web. identify the trophic levels of the organisms in the habitat.",
+        "discuss the effect of elimination of one trophic level in a food chain.",
+        "discuss the energy transfer along a food chain",
+        "With guidance from the teacher, learners; observe a school garden/farm and identify competition between individuals of the same and different species",
+        "use given data to plot a prey-predator curve (Ms Excel if applicable). Present, describe and explain the curve",
+        "research at nearby health/agricultural facility to find out the common parasitic diseases and how they can be prevented",
+        "carry out a role play to show how parasites are adapted to their mode of life"
+      ],
+      "assessmentStrategies": [
+        "Identify and describe an ecosystem in their own locality",
+        "In a fresh water pond at different times in their life cycle, tadpoles are herbivorous on algae or they eat mosquito larvae which feed on algae, fish eat everything found in the water and ducks eat everything in the pond. Basing on the above information, task learners to prepare a food web to show the feeding relationship. Assess how the learners show the food relationship in this case. In a conversation, ask learners the source of energy of all the organisms in the relationship.",
+        "in a conversation, task learners to explain the prey-predator relationship"
+      ],
+      "ictSupport": null,
+      "notes": "1. Details of pyramid of numbers, biomass and energy not required 2. Details of life cycles of parasites not required"
+    },
+    {
+      "topicCode": "1",
+      "topicName": "POLLUTION",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Science and the Environment",
+      "durationPeriods": 10,
+      "competency": "The learner appreciates the importance of science in the management and conservation of the environment.",
+      "learningOutcomes": [
+        "a understand the meaning of air pollution (u)",
+        "b. identify the major air pollutants and their sources (k)",
+        "c. assess the different ways of preventing air pollution (u, v/a)",
+        "d understand the meaning ofwater pollution and identify the main water pollutants (k, u)",
+        "e analyse the effects of water pollution and suggest the ways of preventing water pollution (u)",
+        "f understand the term solid waste material and identify different types of solid waste (k, u)",
+        "gappreciate the dangers of solid waste and suggests ways of managing solid waste (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups or as individuals, learners use ICT or other sources to research and hold interactive discussions on the various ways of preventing air pollution. Make a presentation at the end of the discussion.",
+        "research and make presentations on water pollutants, effects of polluted water and ways of preventing water pollution",
+        "design a project to collect, prevent and minimize solid waste materials at or around the school."
+      ],
+      "assessmentStrategies": [
+        "Many homesteads in Africa use firewood for cooking in small non-ventilated kitchens. Basing on the above statement and in a conversation, task learners to answer the following questions: State the dangers associated with this practice; How can cooking in such kitchens be made safer"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "2",
+      "topicName": "CLIMATE AND CLIMATE CHANGE",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Science and the Environment",
+      "durationPeriods": 12,
+      "competency": "The learner understands how climate changes affect life and how they can be mitigated.",
+      "learningOutcomes": [
+        "a. compare weather and climate (u)",
+        "b. know the various weather measuring equipment and discuss how each one is used (k, u)",
+        "c. demonstrate how to measure using weather measuring equipment (u, s)",
+        "d. analyse how man's activities can lead to climate change (u, v/a)",
+        "e. assess the effects climate changes on life and the environment (agriculture, settlement, vegetation, water cycle, etc.) (u, s)",
+        "f. prepare a weather chart (u, s)",
+        "g. relate climate to vegetation zones (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, and with guidance from the teacher, learners; identify the elements of climate, and discuss how each element affects agriculture",
+        "visit a Meteorological Station, observe various weather measuring equipment and satellite images and how they are used",
+        "practise the use of some of the meteorology equipment and collect data by using the equipment and make a simple weather chart",
+        "relate the weather charts to activities undertaken by humans in the locality",
+        "identify agencies involved in providing weather and climatic information to the public and discuss their roles"
+      ],
+      "assessmentStrategies": [
+        "Suggest reasons why certain crops grow in some parts of the country while they may not thrive in others. Assess how learners communicate scientifically and efficiently."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "3",
+      "topicName": "CONSERVATION AND SUSTAINABLE USE OF THE ENVIRONMENT",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Science and the Environment",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates the need to conserve the environment for future generations.",
+      "learningOutcomes": [
+        "a understand the meaning of sustainable resource (u)",
+        "b. know the renewable and non-renewable resources in Uganda (k)",
+        "c understand the importance of forests and water bodies in ecosystem balance (u)",
+        "d understand the need to conserve fossil fuels (u)",
+        "e analyse how wildlife, forest and fish resources can be maintained(u)",
+        "f. appreciate the need for conservation programmes and the roles of communities in conservation (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups and with guidance from the teacher, learners; discuss.conservation activities that can be carried out at school and explain the impact of the activities on a global scale",
+        "debate the motion \"High population growth is the principle cause of global environmental problems\""
+      ],
+      "assessmentStrategies": [
+        "A school conservation club makes briquettes from waste paper. In a conversation, task learners to explain how using briquettes in place of charcoal helps to promote conservation.",
+        "Task learners, in a conversation to name four endangered species in Africa, give reasons that caused them to be endangered and state what is being done to protect them."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "4",
+      "topicName": "INDUSTRIAL PROCESSES",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Science in Industry",
+      "durationPeriods": 30,
+      "competency": "The learner understands how industrial processes produce useful materials which contribute greatly to the economic growth of Uganda as a nation.",
+      "learningOutcomes": [
+        "a know the common industrial materials in our homes and identify their uses (k, u)",
+        "b. identify factors that favour the establishment of particular industries (u)",
+        "c understand the contribution of the Industries to society (u)",
+        "d assess the problems arising from industrial development (u, v/a)",
+        "a know ores from which iron, copper, sodium and aluminium are extracted (k)",
+        "b. understand steps involved in the extraction of copper, iron and sodium (details of chemical reactions not required) (k,u)",
+        "c know the major mining centres in Uganda (k)",
+        "d understand the factors that favour the establishment of a metal plant (u)",
+        "e identify the uses of: iron, copper and aluminium and explain why each is used in these ways (u)",
+        "a. identify the raw materials for industrial manufacture of ammonia and explains how these materials are obtained (u)",
+        "b. understand the commercial manufacture of ammonia (u)",
+        "c understand the importance ammonia in fertilizer industry (u)",
+        "d appreciate the potential dangers to the environment of excessive use of fertilizers (u)",
+        "e know the other sources of industrial fertilizers used to improve crop growth (k)",
+        "a. understand the process of the manufacture cement (u)",
+        "b know the changes that take place during the setting of cement (k)",
+        "c know what acidic rain is and how it affects concrete materials (k, u)",
+        "a. know the meaning of petroleum and its importance in industrial processes(k)",
+        "b. understand how petroleum products are used and misused and the consequences resulting from the misuse (u)",
+        "a understand the meaning of fermentation and explain its industrial application in the production of ethanol/alcoholic beverages (k, u)",
+        "b understand the manufacture of an alcoholic drink in their community (u, s)",
+        "c appreciate the use and misuse of alcoholic drinks ( u,v/a)",
+        "a know what soaps and detergents are(u)",
+        "b. understand the industrial process used in the manufacture of soaps and detergents (u)",
+        "c understand how soaps remove dirt from clothes (u)",
+        "d. appreciate dangers associated with use of soaps and detergents (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups or as individuals, learners; research about the reasons that favour the establishment of some of the industries where they are located",
+        "discuss the main sources of environmental darnage in Uganda that are caused by utilising natural resources",
+        "In groups or as individuals, learners research and discuss: the common industrial processes for extracting the metals from the ores; how copper and iron are purified; how used metals are recycled and why it is important",
+        "In groups or as individuals, learners: discuss the importance of nitrate fertilisers for growing food; discuss how eutrophication results from excessive fertiliser use; discuss the importance of other fertilizers (non-nitrogenous)",
+        "In groups, learners; discuss the manufacture of cement from limestone and its environmental impact; discuss how concrete is made and why it is often sprayed with water",
+        "In groups, learners: use ICT and other sources to search and make a presentation on the petroleum products",
+        "carry out a discussion on the dangers of misuse of petroleum products (e.g. Burning, cooking in plastic /\"kavera\", oil spills etc.)",
+        "In groups, learners discuss: The process of fermentation; the raw materials and how alcoholic beverages are manufactured",
+        "In groups or as individuals, learners: discuss how soap and detergents are manufactured; prepare liquid soap in the home or at school; survey local materials for domestic soap production"
+      ],
+      "assessmentStrategies": [
+        "Describe some of the dangers to the community arising from these industrial processes. Assess how learners communicate and develop values in relation to development",
+        "Locate the geographical place where copper, cobalt and iron metal ores are obtained in Uganda. In a conversation, task learners to suggest the likely challenges which communities living around mining centresface.",
+        "engage learners in a debate to explain the effect of excessive use of fertilisers on our environment.",
+        "In a conversation, ask learners to name the materials that must be added to cement to make concrete. Ask learners why each of the materials is added to the cement.",
+        "Describe the dangers of the following: Boiling food covered in polythene material, Spilling fuel in your surrounding, Burning polythene, Poor disposal of plastics",
+        "Explain the social and scientific implications of alcohol. Assess how learners express themselves and how they communicate values and attitudes.",
+        "Explain the differences and similarities between soap and detergents in terms of composition, use and disposal challenges."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "5",
+      "topicName": "SOUND WAVES",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Science and Energy",
+      "durationPeriods": 12,
+      "competency": "The learner investigates the properties of transverse and longitudinal wave forms and appreciates that waves transmit energy.",
+      "learningOutcomes": [
+        "a understand the meaning of a wave and classifies waves as mechanical and electromagnetic; transverse and longitudinal; progressive and stationary waves",
+        "b know how waves transfer energy and the basic features of waves i.e. amplitude, wavelength, frequency, and period, velocity (k, u)",
+        "c relate frequency and period of a wave (u, s)",
+        "d use the wave equation: v = A f to solve simple numerical problems (u,s)",
+        "a understand how sound is produced and transmitted in terms of particle theory (u)",
+        "b. demonstrate that sound does not travel in vacuum (u, s)",
+        "c understand why sound travels at different speeds in different states of matter (u)",
+        "d. know the difference between loudness, pitch and noise and discusses the factors which affect them (k,u)",
+        "e demonstrate other properties of sound waves in terms of reflection and refraction, and compare them to those of light (u, s)",
+        "a understand the terms echo and reverberation (u)",
+        "b. plan and carry out an activity to measure the velocity of sound in air using the echo method and comment on the result (u, s)",
+        "c solve simple numerical problems related to echoes (u, s)",
+        "d. know the factors that affect the velocity of sound in air (k)",
+        "e appreciate the applicationsof reflected sound waves (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups or as individuals learners demonstrate what waves are using ropes or water in a basin or pond",
+        "carry out an activity to demonstrate the movement of transverse and longitudinal waves",
+        "solve a numerical problem of this nature: In a progressive water wave, the distance between ten successive crests is 18 cm. If the frequency of the waves is 40 Hz, calculate the velocity of the waves",
+        "In groups and with guidance from the teacher, learners: carry out activity to produce sound",
+        "demonstrate that sound requires a medium to travel",
+        "carry out a discussion to compare sound and light waves and make a report",
+        "In groups, learners: plan and carry out an activity to measure the velocity of sound in air using the echo method and discuss the limitations of the method",
+        "work out this problem: A student standing 100 m from a large building blows a whistle and hears the echo after 0.6 s. Calculate the speed of sound in air"
+      ],
+      "assessmentStrategies": [
+        "Solve the problem: In a ripple tank, the distance between 10 successive crests is 18 cm and the frequency of the ripples is 50 Hz. Find the speed of the ripples.",
+        "Observe how learners state the formula and use it in the calculation, the substitution and how they express the final answer.",
+        "Compare sound and light waves in a group discussion and assess how learners express themselves and how they communicate",
+        "Solve the problem: A student standing 100 m from a large building blows a whistle and hears the echo after 0.6 s. Calculate the speed of sound in air. Observe how learners select the formula and substitute in the variables to obtain the final answer."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "6",
+      "topicName": "MAGNETISM AND ITS APPLICATIONS",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Science and Technology",
+      "durationPeriods": 20,
+      "competency": "The learner knows the properties of magnets and appreciates that the earth is a magnet itself.",
+      "learningOutcomes": [
+        "a categorise materials as magnetic and non- magnetic, using simple tests (k,u)",
+        "b demonstrate the test for magnets (u, s)",
+        "c understand the meaning of ferromagnetic and para-magnetic materials, and state their applications (u,s)",
+        "d demonstrate how like and unlike poles behave when brought together and use it to state the law of magnetism (u, s, gs)",
+        "e know the general applications of magnets (k)",
+        "a Demonstrate how to magnetise a magnetic material using stroking and induction, basing on the domain theory of magnets (u, s,gs)",
+        "b. Compare soft and hard magnetic materials and identify their applications (u, s)",
+        "c. Understand the different methods of demagnetisation and explain how demagnetisation occurs (u)"
+      ],
+      "suggestedActivities": [
+        "As individuals of in groups, learners: carry out activities to classify materials (copper, nickel, iron, wood, etc.) into magnetic or non-magnetic",
+        "move magnets towards and away from other magnets and use the observations made to state the law of magnetism",
+        "As individuals or in groups, learners; carry out an activity to magnetise a steel nail/bar using single touch and test for its polarity",
+        "hold a chain of small nails or pins attached at the end of one pole of a permanent magnet and discuss the concept of induction"
+      ],
+      "assessmentStrategies": [
+        "Test for the presence of magnets. Assess how learners arrange their apparatus and how they state/write the observations",
+        "Draw diagrams to show the magnetic domains of a magnetised and un- magnetised metal bar and use this to explain the process of magnetisation and magnetic saturation."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "7",
+      "topicName": "BASIC ELECTRICITY",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Science and Technology",
+      "durationPeriods": 40,
+      "competency": "The learner appreciates how electric current is generated and the limitations associated with the methods of generating electricity.",
+      "learningOutcomes": [
+        "a know the meaning electric cell and emf and outline sources of emf (k, u)",
+        "b. know how emf is measured and state it's units (u)",
+        "c construct a simple cell and describes how it works (u,s)",
+        "d know the limitations and suggests improvements to a simple cell (u j,v/a)",
+        "e compare between primary and secondary cells (u)",
+        "f understand the structure and action of dry cells and accumulators (u,s)",
+        "g understand the process of charging an accumulator and discuss its proper handling methods (u)",
+        "h appreciate that there are different sources of electricity, citing particular examples in Uganda (u, v/a)",
+        "a understand what electric current is, how it is measured, it's units, what causes it and its effects (u)",
+        "b understand the meaning of electric circuit and identify its components and types (k, u)",
+        "c categorise materials as conductors, semiconductors and insulators and identify their applications (u)",
+        "d. compare a.c. and d.c. and explain what inverters and rectifiers are used for using examples of their use at home (k,u)",
+        "e identify common domestic electrical appliances and establishes whether they operate on d.c. or a.c. (k,u)",
+        "f know the importance of the components of domestic wiring (u,v/a)",
+        "g appreciate the methods of saving electricity (u,v/a)"
+      ],
+      "suggestedActivities": [
+        "As individuals or in groups, learners construct a simple cell from locally available materials and discuss why the emf of a cell gradually reduces",
+        "discuss the advantages and disadvantages of the various sources of electricity in Uganda",
+        "In groups, learners; discuss uses of conductors and insulators in reference to the domestic appliances",
+        "explain the importance of sockets, switches and circuit breakers in domestic wiring",
+        "categorise the common domestic appliances and classify them according to whether they operate on a.c or d.c"
+      ],
+      "assessmentStrategies": [
+        "Observe groups of learners construct a simple cell. Converse with learners about the materials used and the process of operation. Then assess the physical cell and the write up of its operation.",
+        "Task learners, in a class discussion to analyse the advantages and disadvantages of the various sources of electricity, with reference to Uganda. Assess the self-confidence, and the way learners communicate scientifically.",
+        "In a group, learners discuss the applications of insulators and semiconductors. In a conversation, ask learners to identify a variety of appliances in which semiconductors are applied.",
+        "Task learners to write an article advising communities about electric energy saving in the home. Assess how learners communicate scientifically and how they develop values."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "8",
+      "topicName": "HUMAN GROWTH AND DEVELOPMENT",
+      "seniorLevel": "S4",
+      "term": "3",
+      "theme": "Science of the Human Body",
+      "durationPeriods": 30,
+      "competency": "The learner understands the various physiological changes during growth; the emotional and psychological challenges associated with each stage.",
+      "learningOutcomes": [
+        "a know the difference between growth and development (k)",
+        "b. understand the importance of mitosis (u)",
+        "c. know the various stages of development in human life (physical and cognitive) (u, s)",
+        "d. relate the developmental stages of a child to significant features of behaviour at each stage (u, s)",
+        "e understand the deviant behaviour that may be associated with the various physiological changes (u)",
+        "f. appreciate the physical, physiological, psychological (emotional) changes associated with adolescence and puberty and highlights the associated myths (u, v/a)",
+        "g. appreciate various features related to the process of aging (u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners discuss: the physical and physiological changes that occur in humans during puberty",
+        "myths associated with sex, ejaculation, menstruation and pregnancy among adolescents",
+        "best practices of looking after the elderly"
+      ],
+      "assessmentStrategies": [
+        "Task learners to write down the challenges that teenagers face due to the body changes they undergo.",
+        "In a class discussion, ask learners to state the advice they would give to a student who is struggling with the changes taking place in him or her during puberty."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "9",
+      "topicName": "INHERITANCE AND EVOLUTION",
+      "seniorLevel": "S4",
+      "term": "3",
+      "theme": "Science of the Human Body",
+      "durationPeriods": 30,
+      "competency": "The learner understands between evolution, inheritance and variation and applies them correctly in scientific enquiries.",
+      "learningOutcomes": [
+        "a know the traits that are inherited and those that are not inherited(k)",
+        "b. understand the meaning of variation, its types and causes (k,u)",
+        "c understand the meaning of the term monohybrid inheritance (u)",
+        "d. know the terms used in monohybrid Inheritance (Gene, chromosome, allele, homozygous, heterozygous) (k, u)",
+        "e understand sex determination in humans (u)",
+        "f. appreciate how natural selection leads to evolution (k, u, v/a)"
+      ],
+      "suggestedActivities": [
+        "In groups and with guidance from the teacher, learners: brainstorm on types and causes of variation stating examples",
+        "research, discuss and explain sex determination in humans"
+      ],
+      "assessmentStrategies": [
+        "In a class discussion, task learners to state the areas of everyday life where they think the knowledge of genetics is applicable."
+      ],
+      "ictSupport": null,
+      "notes": "Note: Doing crosses and Punett squares NOT required"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Georgia", serif;
+  --font-display: "Playfair Display", serif;
+  
+  --color-ug-green: #006747;
+  --color-ug-red: #d40000;
+  --color-ug-yellow: #ffce00;
+  --color-ug-black: #000000;
+  --color-emerald-900: #064e3b;
+  --color-emerald-600: #059669;
+  --color-emerald-200: #a7f3d0;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-100 text-slate-900 antialiased;
+  }
+}
+
+/* Sidebar Styling */
+.sidebar-label {
+  @apply text-[11px] font-bold uppercase text-ug-green mb-1 tracking-wider;
+}
+
+.input-field {
+  @apply w-full border border-slate-200 p-2 rounded-md text-sm mb-3 bg-slate-50 outline-none focus:ring-2 focus:ring-ug-green/20 focus:border-ug-green transition-all;
+}
+
+.btn-primary {
+  @apply bg-ug-green text-white p-2.5 rounded-md font-semibold w-full transition-opacity hover:opacity-90 disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+/* Document / Lesson Page Styling */
+.lesson-page {
+  @apply bg-white shadow-xl shadow-slate-200/50 mx-auto font-serif;
+  width: 210mm;
+  min-height: 297mm;
+  padding: 20mm;
+}
+
+.doc-header {
+  @apply border-b-2 border-slate-900 mb-6 pb-4 text-center;
+}
+
+.grid-table {
+  @apply grid grid-cols-2 gap-x-8 gap-y-2 mb-6 text-sm font-sans;
+}
+
+.lesson-section-header {
+  @apply text-sm font-bold uppercase bg-slate-100 p-1.5 mb-3 font-sans border-l-4 border-ug-green;
+}
+
+.markdown-body.font-serif {
+  @apply font-serif text-[13px] leading-relaxed;
+}
+
+.markdown-body.font-serif h1, 
+.markdown-body.font-serif h2, 
+.markdown-body.font-serif h3 {
+  @apply font-bold uppercase text-slate-800 mb-3 font-sans text-sm bg-slate-100 p-1.5 border-l-4 border-ug-green;
+}
+
+.markdown-body.font-serif p {
+  @apply mb-3;
+}
+
+.markdown-body.font-serif ul, 
+.markdown-body.font-serif ol {
+  @apply mb-4 ml-5 list-outside;
+}
+
+.markdown-body.font-serif li {
+  @apply mb-1;
+}
+
+.markdown-body.font-serif table {
+  @apply w-full border-collapse mb-4 text-[11px] font-sans;
+}
+
+.markdown-body.font-serif th, 
+.markdown-body.font-serif td {
+  @apply border border-slate-300 p-2 text-left;
+}
+
+.markdown-body.font-serif th {
+  @apply bg-slate-50 font-bold;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .lesson-page {
+    width: 100%;
+    min-height: auto;
+    padding: 0;
+    box-shadow: none;
+    margin: 0;
+  }
+  
+  /* Reset Scale for Print */
+  #printable-plan {
+    position: static;
+    visibility: visible;
+  }
+}

@@ -1,0 +1,976 @@
+{
+  "subject": "MATHEMATICS SYLLABUS",
+  "generatedAt": "",
+  "globalIctGuidelines": "ICT Integration in the Lower Secondary Curriculum: The use of ICT is a learner-centred approach that comprises the use of a variety of hardware, software, and digital resources in the teaching and learning process to enhance the understanding of mathematical concepts and make learning more engaging. It is used as a tool to explore mathematical concepts, solve problems, and communicate mathematical ideas. ICT also provides opportunities for learners to develop their digital literacy skills. In Mathematics, ICT can be used for: visualising mathematical concepts through simulations and animations; exploring mathematical relationships through graphing and geometric software; analysing data using spreadsheets and statistical software; solving complex problems using mathematical software and online resources; and communicating mathematical ideas through presentations and online forums.",
+  "topics": [
+    {
+      "topicCode": "1.1",
+      "topicName": "Number Bases",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "NUMBER",
+      "durationPeriods": 12,
+      "competency": "The learner uses different number bases to solve mathematical problems and interprets results in a variety of contexts.",
+      "learningOutcomes": [
+        "a) Understand number bases and their application in daily life.",
+        "b) Work with numbers in different bases including addition, subtraction and multiplication.",
+        "c) Convert numbers from one base to another."
+      ],
+      "suggestedActivities": [
+        "In groups, discuss the application of number bases in daily life e.g. computer coding (binary), time (base 60).",
+        "Explore the conversion of numbers from base ten to other bases and vice versa using place value.",
+        "Perform addition, subtraction and multiplication in different bases.",
+        "Use a game or a puzzle involving different number bases."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they convert numbers from one base to another and solve problems involving operations in different bases.",
+        "Assess learners' ability to explain the application of number bases in daily life.",
+        "Evaluate the correctness of the operations performed in different bases."
+      ],
+      "ictSupport": "Use a scientific calculator or computer spreadsheet/software to perform operations and conversions between different bases.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.2",
+      "topicName": "Working with Fractions",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "NUMBER",
+      "durationPeriods": 12,
+      "competency": "The learner uses fractions to solve problems in a variety of contexts.",
+      "learningOutcomes": [
+        "a) Understand and use fractions in daily life.",
+        "b) Simplify, compare and order fractions.",
+        "c) Perform operations on fractions."
+      ],
+      "suggestedActivities": [
+        "In groups, discuss and identify different types of fractions.",
+        "Use fraction strips or diagrams to compare and order fractions.",
+        "Perform addition, subtraction, multiplication and division of fractions.",
+        "Solve real-life problems involving fractions."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they work with fractions and solve problems.",
+        "Review learners' work in simplifying and ordering fractions.",
+        "Evaluate the learners' ability to perform operations on fractions correctly."
+      ],
+      "ictSupport": "Use a calculator to check calculations and explore patterns in fractions.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.3",
+      "topicName": "Rectangular Cartesian Coordinates in 2-Dimensions",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner plots points on a Cartesian plane and uses them to describe positions and movements.",
+      "learningOutcomes": [
+        "a) Understand the rectangular Cartesian coordinate system.",
+        "b) Plot points on a Cartesian plane.",
+        "c) Describe the position and movement of points using coordinates."
+      ],
+      "suggestedActivities": [
+        "In groups, discuss the concept of a coordinate system.",
+        "Plot points on a Cartesian plane and identify their coordinates.",
+        "Use coordinates to describe the position and movement of objects in a plane.",
+        "Create patterns and shapes on a Cartesian plane using coordinates."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they plot points and describe positions on a Cartesian plane.",
+        "Assess learners' ability to identify coordinates of given points.",
+        "Evaluate the accuracy of shapes and patterns created using coordinates."
+      ],
+      "ictSupport": "Use graphing software to plot points and explore coordinates.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.4",
+      "topicName": "Integers",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "NUMBER",
+      "durationPeriods": 12,
+      "competency": "The learner uses integers to solve mathematical problems and represents them in various contexts.",
+      "learningOutcomes": [
+        "a) Understand the concept of integers and their application in daily life.",
+        "b) Represent integers on a number line.",
+        "c) Perform operations on integers."
+      ],
+      "suggestedActivities": [
+        "In groups, identify situations where negative numbers are used e.g. temperature, debt.",
+        "Represent integers on a number line and use it to compare and order them.",
+        "Perform addition, subtraction, multiplication and division of integers.",
+        "Solve problems involving integers in real-life contexts."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they work with integers and represent them on a number line.",
+        "Assess learners' ability to perform operations on integers correctly.",
+        "Evaluate the learners' solutions to problems involving integers."
+      ],
+      "ictSupport": "Use a calculator to check calculations involving integers.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.5",
+      "topicName": "Fractions, Decimals and Percentages",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "NUMBER",
+      "durationPeriods": 10,
+      "competency": "The learner converts between fractions, decimals and percentages and uses them to solve problems.",
+      "learningOutcomes": [
+        "a) Understand the relationship between fractions, decimals and percentages.",
+        "b) Convert between fractions, decimals and percentages.",
+        "c) Use percentages to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, discuss and show the relationship between fractions, decimals and percentages.",
+        "Perform conversions between fractions, decimals and percentages.",
+        "Solve real-life problems involving percentages e.g. discounts, interest.",
+        "Use a calculator to explore the decimal representation of different fractions."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they convert between different representations of numbers.",
+        "Assess learners' ability to solve problems involving percentages.",
+        "Review learners' work in converting fractions to decimals and percentages."
+      ],
+      "ictSupport": "Use a calculator to perform conversions and explore decimal representations.",
+      "notes": "Learners should understand the connection between fractions, decimals and percentages and their importance in real-life contexts."
+    },
+    {
+      "topicCode": "1.6",
+      "topicName": "Data Collection and Presentation",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "DATA AND PROBABILITY",
+      "durationPeriods": 12,
+      "competency": "The learner collects, organises and presents data in various formats and interprets results.",
+      "learningOutcomes": [
+        "a) Understand the process of data collection.",
+        "b) Organise data into frequency tables.",
+        "c) Present data using bar charts, pie charts and line graphs.",
+        "d) Interpret data presented in various formats."
+      ],
+      "suggestedActivities": [
+        "In groups, identify a topic for data collection and collect data from the environment.",
+        "Organise the collected data into frequency tables.",
+        "Represent the data using bar charts, pie charts and line graphs.",
+        "Discuss and interpret the data presented in the charts and graphs."
+      ],
+      "assessmentStrategies": [
+        "Observe learners during data collection and organisation.",
+        "Assess the accuracy and clarity of data presentation.",
+        "Evaluate the learners' interpretation of the data presented."
+      ],
+      "ictSupport": "Use spreadsheet software to organise data and create charts and graphs.",
+      "notes": "Learners should be encouraged to collect data from their environment."
+    },
+    {
+      "topicCode": "1.7",
+      "topicName": "Sets",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "NUMBER",
+      "durationPeriods": 10,
+      "competency": "The learner uses set notation and Venn diagrams to represent and solve problems involving sets.",
+      "learningOutcomes": [
+        "a) Understand the concept of sets and set notation.",
+        "b) Represent sets using Venn diagrams.",
+        "c) Find the intersection, union and complement of sets.",
+        "d) Use Venn diagrams to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, identify and describe sets of objects.",
+        "Use set notation to describe sets and their members.",
+        "Draw Venn diagrams to represent relationships between sets.",
+        "Find the intersection, union and complement of sets using Venn diagrams.",
+        "Solve problems involving sets in various contexts."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they represent sets and relationships using Venn diagrams.",
+        "Assess learners' ability to find intersection, union and complement of sets.",
+        "Evaluate the learners' solutions to problems involving sets."
+      ],
+      "ictSupport": "Use software to create Venn diagrams and explore set operations.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.8",
+      "topicName": "Lines and Angles",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner identifies and measures angles and uses the properties of lines and angles to solve problems.",
+      "learningOutcomes": [
+        "a) Identify and name different types of lines and angles.",
+        "b) Measure and draw angles using a protractor.",
+        "c) Use the properties of angles on a straight line and at a point.",
+        "d) Identify angles formed by parallel lines and a transversal."
+      ],
+      "suggestedActivities": [
+        "In groups, identify different types of lines and angles in the environment.",
+        "Measure and draw given angles using a protractor.",
+        "Use the properties of angles to find unknown angles on a straight line and at a point.",
+        "Investigate the relationship between angles formed by parallel lines and a transversal."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they measure and draw angles.",
+        "Assess learners' ability to identify and use properties of angles to solve problems.",
+        "Evaluate the accuracy of the angle measurements and constructions."
+      ],
+      "ictSupport": "Use dynamic geometry software to explore lines and angles.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.9",
+      "topicName": "Geometric Construction",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner uses a ruler and compasses to construct geometric figures and solves related problems.",
+      "learningOutcomes": [
+        "a) Construct a perpendicular bisector and an angle bisector.",
+        "b) Construct angles of 60°, 90°, 45°, 30°.",
+        "c) Construct triangles and other plane figures.",
+        "d) Use constructions to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, practice constructing perpendicular bisectors and angle bisectors.",
+        "Construct given angles using only a ruler and compasses.",
+        "Construct triangles and quadrilaterals based on given dimensions.",
+        "Use geometric constructions to solve practical problems."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they perform geometric constructions.",
+        "Assess the accuracy and neatness of the constructions.",
+        "Evaluate the learners' ability to use constructions to solve problems."
+      ],
+      "ictSupport": "Use dynamic geometry software to perform and verify constructions.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.1",
+      "topicName": "Mapping and Relations",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "ALGEBRA",
+      "durationPeriods": 10,
+      "competency": "The learner identifies and describes relations and represents them using various methods.",
+      "learningOutcomes": [
+        "a) Understand the concept of mapping and relations.",
+        "b) Represent relations using arrow diagrams, ordered pairs and tables.",
+        "c) Identify types of relations."
+      ],
+      "suggestedActivities": [
+        "In groups, identify relations in daily life e.g. name and age, student and school.",
+        "Represent relations using arrow diagrams and ordered pairs.",
+        "Identify the domain and range of a relation.",
+        "Discuss and identify different types of relations (one-to-one, many-to-one, etc.)."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they represent relations in various formats.",
+        "Assess learners' ability to identify the type of a relation.",
+        "Evaluate the learners' understanding of domain and range."
+      ],
+      "ictSupport": "Use software to create and explore arrow diagrams and mapping.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.2",
+      "topicName": "Introduction to Functions",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "ALGEBRA",
+      "durationPeriods": 10,
+      "competency": "The learner uses function notation and represents functions graphically.",
+      "learningOutcomes": [
+        "a) Understand the concept of a function.",
+        "b) Use function notation f(x).",
+        "c) Find the image of a given value under a function.",
+        "d) Plot the graph of a simple function."
+      ],
+      "suggestedActivities": [
+        "In groups, discuss the difference between a relation and a function.",
+        "Use function notation to represent functions.",
+        "Calculate the image of various values for a given function.",
+        "Plot points and draw the graph of simple functions e.g. f(x) = x + 2."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they calculate images and plot graphs.",
+        "Assess learners' ability to use function notation correctly.",
+        "Evaluate the accuracy of the graphs drawn."
+      ],
+      "ictSupport": "Use graphing software to plot and explore different functions.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.3",
+      "topicName": "Linear Equations",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "ALGEBRA",
+      "durationPeriods": 12,
+      "competency": "The learner forms and solves linear equations and uses them to solve mathematical and real-life problems.",
+      "learningOutcomes": [
+        "a) Form linear equations from word problems.",
+        "b) Solve linear equations in one variable.",
+        "c) Use linear equations to solve real-life problems."
+      ],
+      "suggestedActivities": [
+        "In groups, translate word problems into linear equations.",
+        "Solve linear equations using various methods.",
+        "Solve problems involving ages, numbers, and geometric shapes using linear equations.",
+        "Discuss the application of linear equations in business and daily life."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve linear equations and word problems.",
+        "Assess learners' ability to translate word problems into equations.",
+        "Evaluate the accuracy of the solutions to linear equations."
+      ],
+      "ictSupport": "Use equation solving software or online calculators to check solutions.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.4",
+      "topicName": "Properties of Geometrical Shapes",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner identifies and uses properties of 2D and 3D shapes to solve problems.",
+      "learningOutcomes": [
+        "a) Identify properties of triangles, quadrilaterals and other polygons.",
+        "b) Calculate the sum of interior and exterior angles of polygons.",
+        "c) Identify properties of circles.",
+        "d) Use properties of shapes to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, identify and discuss the properties of various 2D and 3D shapes.",
+        "Investigate the sum of interior and exterior angles of different polygons.",
+        "Identify and name parts of a circle and explore its properties.",
+        "Solve problems involving the properties of shapes in various contexts."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they identify and use properties of shapes.",
+        "Assess learners' ability to calculate angles of polygons.",
+        "Evaluate the learners' understanding of circular properties."
+      ],
+      "ictSupport": "Use dynamic geometry software to explore the properties of 2D and 3D shapes.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.5",
+      "topicName": "Rational and Irrational Numbers",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "NUMBER",
+      "durationPeriods": 10,
+      "competency": "The learner distinguishes between rational and irrational numbers and uses them in calculations.",
+      "learningOutcomes": [
+        "a) Understand the difference between rational and irrational numbers.",
+        "b) Represent rational numbers as fractions or terminating/recurring decimals.",
+        "c) Perform calculations involving square roots and surds."
+      ],
+      "suggestedActivities": [
+        "In groups, identify and classify numbers as rational or irrational.",
+        "Convert recurring decimals to fractions and vice versa.",
+        "Simplify and perform operations on surds.",
+        "Discuss the use of irrational numbers in geometry (e.g. pi, square roots)."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they classify numbers and simplify surds.",
+        "Assess learners' ability to convert recurring decimals to fractions.",
+        "Evaluate the correctness of the operations performed with surds."
+      ],
+      "ictSupport": "Use a calculator to explore irrational numbers and their decimal approximations.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.6",
+      "topicName": "Proportions and Rates",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "NUMBER",
+      "durationPeriods": 12,
+      "competency": "The learner uses proportions and rates to solve problems in various contexts.",
+      "learningOutcomes": [
+        "a) Understand direct and inverse proportion.",
+        "b) Solve problems involving rates, such as speed, price and density.",
+        "c) Apply proportions to scale drawings."
+      ],
+      "suggestedActivities": [
+        "In groups, identify situations involving direct and inverse proportion.",
+        "Solve problems involving direct and inverse proportion.",
+        "Calculate rates in different contexts e.g. unit price, speed.",
+        "Use proportions to create and interpret scale drawings."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve proportion and rate problems.",
+        "Assess learners' ability to distinguish between direct and inverse proportion.",
+        "Evaluate the accuracy of the scale drawings and calculations."
+      ],
+      "ictSupport": "Use spreadsheets to explore relationships in direct and inverse proportion.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.7",
+      "topicName": "Length and Area of Plane Figures",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner calculates the perimeter and area of various plane figures and uses them to solve problems.",
+      "learningOutcomes": [
+        "a) Calculate the perimeter and area of triangles, quadrilaterals and circles.",
+        "b) Use formulas to find the area of composite figures.",
+        "c) Solve problems involving length and area in real-life contexts."
+      ],
+      "suggestedActivities": [
+        "In groups, derive and use formulas for the area of various plane figures.",
+        "Calculate the area of composite shapes by breaking them into simpler figures.",
+        "Solve problems involving the cost of fencing or tiling using area and perimeter.",
+        "Measure objects in the environment and calculate their perimeter and area."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they measure objects and calculate area and perimeter.",
+        "Assess learners' ability to use formulas correctly for various shapes.",
+        "Evaluate the learners' solutions to real-life problems involving area."
+      ],
+      "ictSupport": "Use dynamic geometry software or spreadsheets to calculate and compare areas.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.8",
+      "topicName": "Volumes and Surface Areas of Prisms",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner calculates the surface area and volume of prisms and solves related problems.",
+      "learningOutcomes": [
+        "a) Identify different types of prisms.",
+        "b) Calculate the surface area and volume of cubes, cuboids and cylinders.",
+        "c) Solve problems involving volume and surface area in daily life."
+      ],
+      "suggestedActivities": [
+        "In groups, identify prisms in the environment and describe their properties.",
+        "Construct nets of prisms and use them to calculate surface area.",
+        "Calculate the volume of various prisms using formulas.",
+        "Solve problems involving capacity and packaging using volume and surface area."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they construct nets and calculate volumes.",
+        "Assess learners' ability to identify prisms and use the correct formulas.",
+        "Evaluate the learners' solutions to capacity and surface area problems."
+      ],
+      "ictSupport": "Use 3D geometry software to visualise and calculate volume and surface area of prisms.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.9",
+      "topicName": "Indices and Logarithms",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "ALGEBRA",
+      "durationPeriods": 12,
+      "competency": "The learner uses the laws of indices and logarithms to simplify expressions and solve equations.",
+      "learningOutcomes": [
+        "a) Understand the laws of indices.",
+        "b) Use indices to represent large and small numbers in standard form.",
+        "c) Understand the relationship between indices and logarithms.",
+        "d) Use logarithm tables or a calculator to perform calculations."
+      ],
+      "suggestedActivities": [
+        "In groups, investigate and use the laws of indices.",
+        "Represent numbers in standard form and vice versa.",
+        "Discuss and show the relationship between exponential and logarithmic forms.",
+        "Practice using logarithm tables and calculators for calculations."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they use laws of indices and work with logarithms.",
+        "Assess learners' ability to express numbers in standard form.",
+        "Evaluate the accuracy of the calculations performed with logarithms."
+      ],
+      "ictSupport": "Use a scientific calculator to perform calculations involving indices and logarithms.",
+      "notes": null
+    },
+    {
+      "topicCode": "2.10",
+      "topicName": "Similarity and Enlargement",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner identifies similar figures and performs enlargements using a scale factor.",
+      "learningOutcomes": [
+        "a) Understand the concept of similarity.",
+        "b) Identify properties of similar figures.",
+        "c) Perform enlargements on a coordinate plane using a scale factor.",
+        "d) Use similarity to find unknown lengths and areas."
+      ],
+      "suggestedActivities": [
+        "In groups, identify similar objects in the environment.",
+        "Enlarge shapes on a grid or coordinate plane using a given scale factor.",
+        "Investigate the relationship between scale factor, area factor and volume factor.",
+        "Use similarity to find the heights of objects using their shadows."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they perform enlargements and identify similar figures.",
+        "Assess learners' ability to find unknown lengths using similarity.",
+        "Evaluate the learners' understanding of the relationship between scale factors."
+      ],
+      "ictSupport": "Use dynamic geometry software to perform and explore enlargements.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.1",
+      "topicName": "Quadratic Equations and Curves",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "ALGEBRA",
+      "durationPeriods": 12,
+      "competency": "The learner solves quadratic equations and represents quadratic functions graphically.",
+      "learningOutcomes": [
+        "a) Solve quadratic equations by factorisation.",
+        "b) Solve quadratic equations using the quadratic formula.",
+        "c) Plot the graph of a quadratic function and identify its features.",
+        "d) Use quadratic equations to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, solve quadratic equations using factorisation and the formula.",
+        "Plot the graph of given quadratic functions and identify the vertex and intercepts.",
+        "Solve real-life problems that lead to quadratic equations.",
+        "Discuss the use of quadratic functions in modelling paths of projectiles."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve quadratic equations and plot graphs.",
+        "Assess learners' ability to use the quadratic formula correctly.",
+        "Evaluate the learners' interpretation of the features of a quadratic curve."
+      ],
+      "ictSupport": "Use graphing software to plot quadratic curves and explore the effect of changing coefficients.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.2",
+      "topicName": "Matrices",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "ALGEBRA",
+      "durationPeriods": 10,
+      "competency": "The learner performs operations on matrices and uses them to solve problems.",
+      "learningOutcomes": [
+        "a) Understand the concept of a matrix and its order.",
+        "b) Perform addition, subtraction and multiplication of matrices.",
+        "c) Find the determinant and inverse of a 2x2 matrix.",
+        "d) Use matrices to represent and solve systems of linear equations."
+      ],
+      "suggestedActivities": [
+        "In groups, represent data using matrices.",
+        "Practice matrix operations: addition, subtraction and multiplication.",
+        "Calculate the determinant and inverse of 2x2 matrices.",
+        "Use matrices to solve simultaneous linear equations in two variables."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they perform matrix operations and solve equations.",
+        "Assess learners' ability to find the determinant and inverse correctly.",
+        "Evaluate the learners' use of matrices to represent data."
+      ],
+      "ictSupport": "Use matrix software or calculators to perform matrix operations.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.3",
+      "topicName": "Reflection and Rotation",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner performs reflection and rotation on a coordinate plane and describes the transformations.",
+      "learningOutcomes": [
+        "a) Perform reflection on a coordinate plane and identify the mirror line.",
+        "b) Perform rotation on a coordinate plane and identify the centre and angle of rotation.",
+        "c) Describe the properties of figures under reflection and rotation."
+      ],
+      "suggestedActivities": [
+        "In groups, perform reflection of shapes across given lines on a coordinate plane.",
+        "Rotate shapes on a coordinate plane given a centre and angle.",
+        "Investigate the properties of shapes that remain invariant under reflection and rotation.",
+        "Create patterns using combinations of reflection and rotation."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they perform transformations and identify their properties.",
+        "Assess the accuracy of the transformed figures.",
+        "Evaluate the learners' description of transformations."
+      ],
+      "ictSupport": "Use dynamic geometry software to explore reflection and rotation.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.4",
+      "topicName": "Probability",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "DATA AND PROBABILITY",
+      "durationPeriods": 12,
+      "competency": "The learner calculates the probability of events and uses it to make predictions.",
+      "learningOutcomes": [
+        "a) Understand the concept of probability and the scale from 0 to 1.",
+        "b) Calculate the probability of simple and combined events.",
+        "c) Use tree diagrams and tables to represent outcomes.",
+        "d) Apply probability to solve problems."
+      ],
+      "suggestedActivities": [
+        "In groups, conduct experiments (e.g. tossing coins, rolling dice) to explore probability.",
+        "Represent sample spaces using tables and tree diagrams.",
+        "Calculate the probability of independent and dependent events.",
+        "Discuss the use of probability in fields like insurance, weather and gaming."
+      ],
+      "assessmentStrategies": [
+        "Observe learners during experiments and probability calculations.",
+        "Assess learners' ability to use tree diagrams and tables correctly.",
+        "Evaluate the learners' solutions to probability problems."
+      ],
+      "ictSupport": "Use simulations to explore probability and conduct virtual experiments.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.5",
+      "topicName": "Simultaneous Equations",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "ALGEBRA",
+      "durationPeriods": 10,
+      "competency": "The learner solves simultaneous linear equations and uses them to solve problems.",
+      "learningOutcomes": [
+        "a) Form simultaneous equations from word problems.",
+        "b) Solve simultaneous equations using substitution, elimination and graphical methods.",
+        "c) Use simultaneous equations to solve real-life problems."
+      ],
+      "suggestedActivities": [
+        "In groups, translate word problems involving two variables into simultaneous equations.",
+        "Solve simultaneous equations using various algebraic methods.",
+        "Plot the graphs of two linear equations and find their point of intersection.",
+        "Solve problems involving prices, ages and numbers using simultaneous equations."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve simultaneous equations and word problems.",
+        "Assess learners' ability to use different methods for solving equations.",
+        "Evaluate the accuracy of the solutions and the point of intersection on graphs."
+      ],
+      "ictSupport": "Use graphing software or calculators to solve simultaneous equations.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.6",
+      "topicName": "Bearings and Scale Drawing",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner uses bearings and scale drawing to solve navigation and mapping problems.",
+      "learningOutcomes": [
+        "a) Understand the concept of bearings.",
+        "b) Measure and record bearings of points.",
+        "c) Use scale drawing to solve problems involving distance and direction."
+      ],
+      "suggestedActivities": [
+        "In groups, practice finding the bearing of one point from another using a compass or protractor.",
+        "Create scale drawings of given routes or maps.",
+        "Solve problems involving navigation and distance using bearings and scale drawing.",
+        "Identify and measure bearings in the local environment."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they measure bearings and create scale drawings.",
+        "Assess the accuracy of the scale drawings and the calculated bearings.",
+        "Evaluate the learners' solutions to navigation problems."
+      ],
+      "ictSupport": "Use mapping software or apps to explore bearings and distances.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.7",
+      "topicName": "Congruence",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner identifies congruent figures and uses the properties of congruence to solve problems.",
+      "learningOutcomes": [
+        "a) Understand the concept of congruence.",
+        "b) Identify properties of congruent triangles.",
+        "c) Use congruence to solve geometric problems."
+      ],
+      "suggestedActivities": [
+        "In groups, identify congruent objects in the environment.",
+        "Investigate the conditions for congruence of triangles (SSS, SAS, ASA, RHS).",
+        "Use properties of congruence to find unknown sides and angles in figures.",
+        "Prove that two triangles are congruent using the identified conditions."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they identify congruent triangles and prove congruence.",
+        "Assess learners' ability to use congruence conditions correctly.",
+        "Evaluate the learners' solutions to geometric problems involving congruence."
+      ],
+      "ictSupport": "Use dynamic geometry software to explore and verify congruence.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.8",
+      "topicName": "Symmetry",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner identifies and describes line and rotational symmetry in 2D and 3D shapes.",
+      "learningOutcomes": [
+        "a) Identify line symmetry and order of rotational symmetry in 2D shapes.",
+        "b) Identify planes of symmetry and rotational symmetry in 3D shapes.",
+        "c) Create patterns with specified symmetry."
+      ],
+      "suggestedActivities": [
+        "In groups, identify symmetry in natural objects and man-made structures.",
+        "Find the number of lines of symmetry and the order of rotational symmetry for various 2D shapes.",
+        "Investigate planes of symmetry in common 3D objects like cubes and cylinders.",
+        "Create symmetric designs and patterns using mirrors and paper folding."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they identify lines and planes of symmetry.",
+        "Assess learners' ability to determine the order of rotational symmetry.",
+        "Evaluate the patterns and designs created with symmetry."
+      ],
+      "ictSupport": "Use software to create and explore symmetric patterns.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.9",
+      "topicName": "Business Mathematics",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "NUMBER",
+      "durationPeriods": 14,
+      "competency": "The learner applies mathematical concepts to solve business-related problems.",
+      "learningOutcomes": [
+        "a) Calculate profit and loss, discount and commission.",
+        "b) Understand and calculate simple and compound interest.",
+        "c) Calculate hire purchase and value added tax (VAT).",
+        "d) Solve problems involving foreign currency exchange."
+      ],
+      "suggestedActivities": [
+        "In groups, solve problems involving profit, loss and discounts using real prices.",
+        "Compare simple and compound interest for different investment scenarios.",
+        "Calculate the cost of items on hire purchase and apply VAT to various products.",
+        "Conduct a project on foreign currency exchange rates and their effects on business.",
+        "Discuss the importance of budgeting and financial planning."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve business-related problems and work on projects.",
+        "Assess learners' ability to calculate interest and taxes correctly.",
+        "Evaluate the learners' understanding of foreign exchange and hire purchase."
+      ],
+      "ictSupport": "Use spreadsheets to manage accounts and project future values.",
+      "notes": "Learners should be aware of current financial news and trends. Real-life application should be emphasised."
+    },
+    {
+      "topicCode": "4.1",
+      "topicName": "Translation and Vectors",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner performs translation on a coordinate plane and uses vectors to describe and solve problems.",
+      "learningOutcomes": [
+        "a) Understand the concept of translation and translation vectors.",
+        "b) Perform translation of points and figures on a coordinate plane.",
+        "c) Perform vector addition and subtraction.",
+        "d) Calculate the magnitude and direction of a vector."
+      ],
+      "suggestedActivities": [
+        "In groups, perform translation of shapes on a grid using vectors.",
+        "Practice vector addition and subtraction using the triangle and parallelogram laws.",
+        "Calculate the magnitude of vectors using Pythagoras' theorem.",
+        "Represent vectors in the form (x, y) and find the resultant vector."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they perform translations and vector operations.",
+        "Assess the accuracy of the translated figures.",
+        "Evaluate the learners' calculations of vector magnitude and direction."
+      ],
+      "ictSupport": "Use software or apps to visualise and perform vector operations.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.2",
+      "topicName": "Statistics",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "DATA AND PROBABILITY",
+      "durationPeriods": 12,
+      "competency": "The learner calculates and interprets measures of central tendency and dispersion for grouped and ungrouped data.",
+      "learningOutcomes": [
+        "a) Calculate the mean, median and mode for grouped and ungrouped data.",
+        "b) Identify the modal class and estimate the median for grouped data.",
+        "c) Calculate the range and interquartile range.",
+        "d) Interpret statistics to make decisions and predictions."
+      ],
+      "suggestedActivities": [
+        "In groups, collect a large set of data and organise it into grouped frequency tables.",
+        "Calculate measures of central tendency for the collected data.",
+        "Find the range and interquartile range to describe the spread of the data.",
+        "Discuss and interpret the findings to draw conclusions from the data.",
+        "Create cumulative frequency graphs (ogives) to estimate the median and quartiles."
+      ],
+      "assessmentStrategies": [
+        "Observe learners during data analysis and interpretation.",
+        "Assess the accuracy of the calculations of mean, median and mode.",
+        "Evaluate the learners' interpretation of measures of dispersion."
+      ],
+      "ictSupport": "Use spreadsheet software to calculate statistics and create frequency graphs.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.3",
+      "topicName": "Loci",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner identifies and constructs the locus of points satisfying given conditions.",
+      "learningOutcomes": [
+        "a) Understand the concept of a locus.",
+        "b) Identify and construct the locus of points at a given distance from a point or a line.",
+        "c) Construct the locus of points equidistant from two points or two lines.",
+        "d) Use loci to solve geometric and practical problems."
+      ],
+      "suggestedActivities": [
+        "In groups, investigate the path (locus) of points moving under given conditions.",
+        "Practice constructing various loci using a ruler and compasses.",
+        "Identify regions satisfying multiple conditions using loci.",
+        "Use loci to solve problems involving the location of points (e.g. finding the best spot for a tower)."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they identify and construct various loci.",
+        "Assess the accuracy of the constructions.",
+        "Evaluate the learners' ability to solve problems using loci."
+      ],
+      "ictSupport": "Use dynamic geometry software to explore and visualise loci.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.4",
+      "topicName": "Trigonometry",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner uses trigonometric ratios and the sine and cosine rules to solve problems involving triangles.",
+      "learningOutcomes": [
+        "a) Understand and use the trigonometric ratios (sine, cosine, tangent).",
+        "b) Solve problems involving angles of elevation and depression.",
+        "c) Use the sine and cosine rules to solve non-right-angled triangles.",
+        "d) Calculate the area of a triangle using 1/2 ab sin C."
+      ],
+      "suggestedActivities": [
+        "In groups, practice finding sides and angles of right-angled triangles using SOHCAHTOA.",
+        "Solve real-life problems involving angles of elevation and depression using a clinometer.",
+        "Apply the sine and cosine rules to find unknown parts of various triangles.",
+        "Derive and use the formula for the area of a triangle.",
+        "Plot the graphs of trigonometric functions."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they solve trigonometric problems and use the rules.",
+        "Assess learners' ability to use trigonometric ratios correctly.",
+        "Evaluate the accuracy of the solutions to non-right-angled triangles."
+      ],
+      "ictSupport": "Use scientific calculators and graphing software to explore trigonometric ratios and functions.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.5",
+      "topicName": "Inequalities and Linear Programming",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "ALGEBRA",
+      "durationPeriods": 12,
+      "competency": "The learner represents and solves linear inequalities and applies linear programming to solve optimization problems.",
+      "learningOutcomes": [
+        "a) Represent linear inequalities on a number line and on a coordinate plane.",
+        "b) Solve linear inequalities in one and two variables.",
+        "c) Form and solve linear programming problems.",
+        "d) Use linear programming for optimization (maximisation and minimisation)."
+      ],
+      "suggestedActivities": [
+        "In groups, represent inequalities by shading regions on a coordinate plane.",
+        "Identify the feasible region satisfying a set of linear inequalities.",
+        "Formulate an objective function and constraints from word problems.",
+        "Find the optimal solution by testing vertices of the feasible region.",
+        "Discuss applications of linear programming in business and industry."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they represent inequalities and solve optimization problems.",
+        "Assess learners' ability to identify feasible regions correctly.",
+        "Evaluate the learners' solutions to linear programming problems."
+      ],
+      "ictSupport": "Use graphing software to represent inequalities and find feasible regions.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.6",
+      "topicName": "Networks",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 10,
+      "competency": "The learner uses network diagrams to represent connections and solve problems involving routes and flows.",
+      "learningOutcomes": [
+        "a) Understand the components of a network (nodes and edges).",
+        "b) Represent systems using network diagrams.",
+        "c) Find the shortest path and critical path in a network.",
+        "d) Solve problems involving flows and connections."
+      ],
+      "suggestedActivities": [
+        "In groups, represent transport routes or communication systems using networks.",
+        "Identify nodes and edges in various network diagrams.",
+        "Find the shortest path between two points in a given network.",
+        "Apply networks to project management to find the critical path.",
+        "Solve practical problems involving network connectivity."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they create and interpret network diagrams.",
+        "Assess learners' ability to find the shortest and critical paths.",
+        "Evaluate the accuracy of the network representations."
+      ],
+      "ictSupport": "Use network software or online tools to explore and solve network problems.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.7",
+      "topicName": "Circles",
+      "seniorLevel": "S4",
+      "term": "3",
+      "theme": "GEOMETRY AND MEASURE",
+      "durationPeriods": 12,
+      "competency": "The learner identifies and uses circle theorems to solve geometric problems.",
+      "learningOutcomes": [
+        "a) Understand the properties of chords, tangents and angles in a circle.",
+        "b) State and use circle theorems to find unknown angles.",
+        "c) Solve problems involving intersecting chords and tangents."
+      ],
+      "suggestedActivities": [
+        "In groups, investigate the relationship between angles at the centre and at the circumference.",
+        "Explore properties of cyclic quadrilaterals and tangents to a circle.",
+        "Prove and apply circle theorems to find unknown angles and lengths.",
+        "Solve geometric problems involving angles in circles using identified theorems."
+      ],
+      "assessmentStrategies": [
+        "Observe learners as they apply circle theorems and solve geometric problems.",
+        "Assess learners' ability to state and use circle theorems correctly.",
+        "Evaluate the learners' solutions to problems involving tangents and chords."
+      ],
+      "ictSupport": "Use dynamic geometry software to investigate and verify circle theorems.",
+      "notes": null
+    }
+  ]
+}

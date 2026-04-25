@@ -1,0 +1,1022 @@
+{
+  "subject": "Lower Secondary Curriculum BIOLOGY SYLLABUS",
+  "generatedAt": "",
+  "globalIctGuidelines": "ICT shall be embedded as a learning/teaching tool across all subjects. The draft framework includes: Field works (Use of cameras to take photos and record videos); Presentations in class (Use presentation application); Key words and meanings (Use online dictionary or search online); Drawing/graphics (Use publishing software, Word processor); Role play, narrations (Use audio and video recordings); Demonstrations (Use audio and video recordings and simulations); Locating and putting marks on an area (Use digital/online mapping); Present findings in graphic and written format (Use desktop publishing software or word processor); Showing data charts (Use spreadsheet software); Group discussions (Mind-mapping software); Search for extra reading materials (Download files on Internet or by sharing); Writing equations and formulas (Use equation editors); Carrying out academic research (Using the Internet and other academic applications like \"Encarta\", \"Britannica,\" etc.); Sharing or learning with people across the world (Forming learning networks, formation of blogs, social media, emails, etc.).",
+  "topics": [
+    {
+      "topicCode": "1.1",
+      "topicName": "INTRODUCTION TO BIOLOGY",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Diversity of living things",
+      "durationPeriods": 8,
+      "competency": "The learner understands biology as a study of life and that all living organisms experience common life processes.",
+      "learningOutcomes": [
+        "a) biology is the study of life (k)",
+        "b) biology is applied in everyday life (u)",
+        "c) life processes are common to all living things, but they are manifested differently in different organisms (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners discuss and report on their understanding of the term biology.",
+        "In pairs, learners observe plants and animals, and identify characteristics that show that organisms are living.",
+        "Identify, research on and record the seven characteristics of living things.",
+        "In groups, learners brainstorm and list what plants and animals need to enable them to maintain their life processes.",
+        "Discuss which life processes are common to both animals and plants, and any that are different, and record conclusions in a clear table."
+      ],
+      "assessmentStrategies": [
+        "Listen and observe as learners explain orally or in writing the meaning of the word biology.",
+        "Listen and observe as learners demonstrate orally or by completing a comparison table that they understand how animals and plants carry out nutrition, respiration, movement, excretion, growth and reproduction, and how they show sensitivity.",
+        "Listen to learners explaining why a machine such as a moving vehicle is a not a living organism.",
+        "Evaluate learner's responses and verbal feedback, including reports, and tables presented."
+      ],
+      "ictSupport": "Use a suitable graphical program to design a pond or an aquarium\nUse the internet to research information about life processes",
+      "notes": "The following branches of biology (botany, zoology, physiology, anatomy, genetics, ecology, and taxonomy) should be discussed while teaching this topic."
+    },
+    {
+      "topicCode": "1.2",
+      "topicName": "CELLS",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Diversity of living things",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates the cell as the basic unit of living organisms including how the structures of different specialized cells are related to their functions.",
+      "learningOutcomes": [
+        "a) know that the basic unit of living organisms is a cell (k)",
+        "b) know and understand the structure and functions of a typical animal cell and plant cell (k, u, s)",
+        "c) understand the structure of specialized cells in terms of their functions in an organism (u)",
+        "d) understand levels of organization in organisms (cell, tissue, organ, system, organism) (u)"
+      ],
+      "suggestedActivities": [
+        "Observe prepared slides of plant and animal cells, draw cells and identify similarities and differences.",
+        "Draw and label the animal and plant cell as seen under a light microscope.",
+        "Research on the functions of the parts in a plant and animal cell, and annotate labels on cell diagrams accordingly.",
+        "Draw examples of specialised cells in animals and plants. Identify and explain the similarities and differences between the cells.",
+        "In groups, learners brainstorm, research on and list the different types of cells, tissues, organs and systems in the human body. Devise creative ways of explaining the five levels of organization (from simple to complex) to the class."
+      ],
+      "assessmentStrategies": [
+        "Listen and observe as learners explain orally or in writing: similarities and differences between plant and animal cells; structure and functions of cells, parts of cells and some specialised cells; different levels of organisation and their importance in large organisms",
+        "Observe group simulations showing the organ systems that need to work together when a person is: dancing, eating, writing a story",
+        "Teacher involves class members in peer assessment and discussion of how groups could improve the quality of simulations.",
+        "Evaluate quality of learners' illustrations relating to each activity mentioned above."
+      ],
+      "ictSupport": "The learner can use a suitable graphical program to draw animal and plant cells",
+      "notes": null
+    },
+    {
+      "topicCode": "1.3.1",
+      "topicName": "CLASSIFICATION",
+      "seniorLevel": "S1",
+      "term": "1",
+      "theme": "Diversity of living things",
+      "durationPeriods": 8,
+      "competency": "The learner understands that classification is the sorting out of living things based on their similarities.",
+      "learningOutcomes": [
+        "a) understand the concept of classification of organisms at different levels (u)",
+        "b) understand that each organism has a Latin name consisting of the genus followed by the species (u)"
+      ],
+      "suggestedActivities": [
+        "Learners consider the analogy of books being classified in a library",
+        "Learners use an analogy of population sizes at different political administration levels in Uganda; e.g. district, county, sub-county, etc., to compare with the number of organisms in a kingdom, phylum, class, order, family, genus and species. Learners give examples at each level and match the biological hierarchy with the 'equivalent' political administration level",
+        "In groups, learners research and write down the common and Latin names of some familiar species and consider why Latin names are so important for accurate identification internationally and even locally"
+      ],
+      "assessmentStrategies": [
+        "Evaluate learners' reports (oral or written) on similarities and differences between animals and plants in their locality.",
+        "Assess the appropriateness of the criteria learners use to classify plant and animals into groups.",
+        "Evaluate learners' explanations of the benefits of a classification system and the likely consequences of studying biology without one",
+        "Observe if learners can, orally or in writing: recall the seven levels in the right order with examples of each; explain the value of the Latin binomial system to science"
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "1.3.2",
+      "topicName": "THE FIVE KINGDOMS OF LIVING ORGANISMS",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "Diversity of living things",
+      "durationPeriods": 30,
+      "competency": "The learner knows the key characteristics of the five kingdoms of living organisms and is able to identify examples of organisms from each kingdom.",
+      "learningOutcomes": [
+        "a) identify three characteristics (cell structure, cell organization, and mode of feeding) of organisms in kingdom Monera, kingdom Protoctista and kingdom Fungi (u)",
+        "b) know examples of organisms belonging to kingdom Monera, kingdom Protoctista and kingdom Fungi (k)",
+        "c) understand the value of microorganisms in food-making processes (u)",
+        "d) identify three characteristics (cell structure, mode of feeding, and photosynthetic pigment) of organisms in kingdom plantae (u)",
+        "e) know examples of organisms from each of the following categories: vascular & non-vascular, angiosperms & gymnosperms, monocots & dicots in kingdom Plantae (No drawings required) (k)",
+        "f) identify three characteristics (cell structure, mode of feeding, and body system) for organisms in kingdom Animalia (u)",
+        "g) know examples of organisms belonging to the following phyla: Platyhelminthes, Nematoda, Annelida and Mollusca (No characteristics required)",
+        "h) identify and describe the common observable characteristics and give examples of organisms from phyla Arthropoda including its classes (No drawings required) (u)",
+        "i) Identify and describe the common observable characteristics (types of teeth, temperature regulation, habitat, reproduction, and gas exchange) and give examples of organisms from the phylum Chordata and its classes. No details of the reproduction process should be given (u)"
+      ],
+      "suggestedActivities": [
+        "Learners use pictures (and possibly microscope slides) as well as lists of group characteristics to identify organisms as belonging to the following groups: Monera/bacteria, Protoctista, Fungi, Plantae, and Animalia.",
+        "In groups, learners construct simple identification keys for grouping the organisms in the pictures, share their keys with other groups, and then use them to identify other examples of organisms belonging to the same groups.",
+        "In groups, leamers research on and make summary write-ups on the use of bacteria and fungi in the production of yoghurt, cheese, bread and alcohol.",
+        "In groups, learners discuss, design and carry out an experiment to investigate the conditions required for the production of yoghurt. Groups write a formal report of the experiment (prediction, materials, procedure, record/analysis of results and conclusion) and present their reports to the rest of the class",
+        "In groups, learners research on the common characteristics and differences between examples of members of the kingdom Plantae belonging to the following categories: vascular/non-vascular, angiosperms/gymnosperms, monocots/dicots. Groups choose the format to use to present their findings (tables, drawings or more creative methods)",
+        "Groups construct simple keys to place plants in the correct category.",
+        "In groups, learners research the common characteristics of arthropods and differences between members of the classes of arthropods. Groups choose the format to use to present their findings (tables, drawings or more creative methods)",
+        "Groups construct simple keys to place animals in the correct category.",
+        "In groups, learners research the common characteristics (see list in learning outcomes) and differences between examples of members of the five main classes of the phylum Chordata: fish, amphibians, reptiles, birds, and mammals. Groups choose the format to use to present their findings (tables, drawings or more creative methods)"
+      ],
+      "assessmentStrategies": [
+        "Observe learners in groups as they develop and use Identification keys.",
+        "Listen to learners' conversations and ask probing questions to check their understanding",
+        "Observe and listen to group presentations.",
+        "Evaluate quality of products such as keys, tables, experiment reports, diagrams, and drawings."
+      ],
+      "ictSupport": "The learner can use the internet to obtain images of living organisms and show how they are similar or different in a presentation or word processor.",
+      "notes": "No drawings and types of Monera are required."
+    },
+    {
+      "topicCode": "1.3.3",
+      "topicName": "VIRUSES",
+      "seniorLevel": "S1",
+      "term": "2",
+      "theme": "Diversity of living things",
+      "durationPeriods": 6,
+      "competency": "The learner understands the characteristics of viruses, their means of infection and transmission as well as the symptoms of some key examples.",
+      "learningOutcomes": [
+        "a) understand that viruses have characteristics similar to other living organisms, and key differences (u)",
+        "b) understand the symptoms, transmission and prevention of the following viruses; HIV, Ebola, hepatitis, and Cassava mosaic (u, v)"
+      ],
+      "suggestedActivities": [
+        "In groups, research on the symptoms, transmission and prevention of HIV, Ebola, hepatitis and Cassava mosaic virus. If possible, visit a health or agricultural facility.",
+        "In groups, learners develop and present a short drama to the rest of the class to explain the transmission and prevention of any of the four viruses listed.",
+        "Write and present a report on strategies for preventing these virus infections and the importance of doing so."
+      ],
+      "assessmentStrategies": [
+        "Observe groups researching and confirm they are using reliable sources of information.",
+        "Listen to group discussions",
+        "Observe and listen to group presentations and invite peer feedback.",
+        "Evaluate quality of products like written reports."
+      ],
+      "ictSupport": "The learner can use the internet to obtain data on the number of people that have lost their lives to Ebola in Africa. The learner can use this data to create graphs showing which countries have been affected most.",
+      "notes": null
+    },
+    {
+      "topicCode": "1.4",
+      "topicName": "INSECTS",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Diversity of living things",
+      "durationPeriods": 20,
+      "competency": "The learner understands the characteristics of insects, relates structures to their functions in some common insects, and appreciates that insects have a direct or indirect effect on the well-being of other organisms.",
+      "learningOutcomes": [
+        "a) identify the observable external features of a housefly, cockroach, mosquito, termite, bee, and butterfly (No details of mouth parts required) (k, s)",
+        "b) construct a dichotomous key (s)",
+        "c) appreciate the useful and harmful effects of a housefly, cockroach, mosquito, bee, and butterfly (u) (v)",
+        "d) know the different methods of controlling the harmful stages of a housefly, cockroach, mosquito, and butterfly (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, use a hand lens to observe a housefly, cockroach, mosquito, termite, bee, and butterfly; paying specific attention to the following structures: head (mouth parts, antennae, eyes, hair); thorax (wings, halters, hairs, strips, legs and the different segments); abdomen. Pairs create a suitable table and record observations; comparing each of the insects.",
+        "Draw the insects provided, label the structures listed above and annotate drawings to explain the functions of the structures.",
+        "Pairs construct a dichotomous key for any four of the insects listed above.",
+        "Pairs research on the different methods of controlling the harmful stages of a housefly, cockroach, mosquito, and butterfly. They produce a presentation advising the class on how to control these populations."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs carrying out activities and check that they identify the parts listed; create an appropriate comparison table; draw and label correctly; construct keys that work.",
+        "Listen to pairs' conversations and monitor understanding and progress towards learning outcomes.",
+        "Evaluate quality of products of each activity."
+      ],
+      "ictSupport": "The learner can use a suitable graphical program to present the dichotomous key.",
+      "notes": "For the life cycles of each of the insects, only give duration of the whole cycle not the duration for each stage of the cycle."
+    },
+    {
+      "topicCode": "1.5",
+      "topicName": "FLOWERING PLANTS",
+      "seniorLevel": "S1",
+      "term": "3",
+      "theme": "Diversity of living things",
+      "durationPeriods": 16,
+      "competency": "The learner understands that different parts of flowering plants carry out different functions, and understands how the parts are suited to their functions.",
+      "learningOutcomes": [
+        "a) know the external parts of a typical flowering plant (k, u)",
+        "b) understand how the structures of monocotyledonous and dicotyledonous roots, stems, leaves, flowers, and fruits suit their functions (u)",
+        "c) Classify leaves (a)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners draw and label the parts of a whole mature dicotyledonous and monocotyledonous plant.",
+        "In groups, learners compare the structural features (root system, leaf venation, leaf shape, leaf attachment to stem, and flower colour) of a whole herbaceous dicotyledonous plant and whole monocotyledonous plant. Learners record their observations and present them to the class",
+        "In groups or as a whole class, learners discuss how the structures observed in the two plants carry out their functions. Annotate the drawings made above to explain how each structure is suited to its function.",
+        "In pairs, learners draw and label the parts of the flower.",
+        "In groups or as a whole class, learners discuss how each part of the flower is suited to its function, and annotate the drawing made above to explain how.",
+        "In groups learners classify leaves using observable characteristics and construct a dichotomous key for not more than four leaves.",
+        "Pairs observe a bean seed and a tomato or other fruit, and write down the similarities and differences. Learners present their findings."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs carrying out activities, and check that they interpret specimens and identify functions correctly.",
+        "Listen to pairs' conversations and monitor understanding and progress towards learning outcomes.",
+        "Monitor individuals' and groups' contributions to whole class discussion.",
+        "Evaluate quality of products from activities."
+      ],
+      "ictSupport": "The learner can use a digital camera to capture images to be used in a word-processed project report",
+      "notes": "The leaves used for construction of a dichotomous key should represent the following: simple, compound, monocotyledonous, and dicotyledonous."
+    },
+    {
+      "topicCode": "2.1",
+      "topicName": "PHYSICAL AND CHEMICAL PROPERTIES OF SOIL",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Soil",
+      "durationPeriods": 20,
+      "competency": "The learner knows that different soil types are made of different components and the balance of these components determines the properties of the soil.",
+      "learningOutcomes": [
+        "identify the types of soil (u, v)",
+        "determine soil constituents and identify their properties (u, s)",
+        "understand that different soil samples have different properties: water retention, drainage, capillarity and PH; learners conduct experiments to investigate these properties (u, s)",
+        "carry out experiments to find the percentage of air, water and humus in a soil sample (u, s)",
+        "understand the importance of air and water in soil to other living organisms (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs or groups, learners observe three different soil samples - clay, sand and loam, and: examine the dry soil samples; shake the samples in water and allow them to settle to show different layers/ particle sizes. Pairs/groups record their observations relating to the following characteristics: the colour of each soil sample, the texture of each soil sample, the size of particles in each soil sample",
+        "Task groups of learners to design, perform and report on investigations to show: retention, drainage and capillarity in loam, clay, and sandy soils. The report for each experiment should follow scientific methods.",
+        "In pairs, learners determine the pH of a soil sample and discuss the significance of their findings.",
+        "In pairs or groups, learners use practical investigations and/or a set of data to calculate the percentage of air, water, and humus in different soil samples and report conclusions.",
+        "In pairs, learners discuss and explain the importance of air and water in soil to living organisms.",
+        "Group Project: To investigate whether crop growth is different in different soil types. Design and carry out an experiment using annual plants in soils with different percentages of contents; e.g. high clay content or high sand content. Remember to make sure to design a fair test, controlling variables; e.g. the amount of water and light the plants receive. Observe the plants and record their appearance and the yield of the crop. From your observations deduce which type of soil is best for the chosen plants, and suggest why. Record conclusions."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs/groups as they examine soil samples.",
+        "Listen to conversations and ask questions to gauge and deepen learning.",
+        "Evaluate products: records of soil characteristics of each type.",
+        "Observe groups and pairs carrying out activities. Check that they plan investigations that will give meaningful results.",
+        "Listen to pairs' discussions and monitor understanding and their progress towards learning outcomes. Ask probing questions to promote critical thinking and deepen learning.",
+        "Evaluate quality of products from activities: reports of investigations, conclusions relating to impact of different properties on quality of soil; explanations of importance of air, water, and humus, as well as the impact of soil types on crop yield and reasons for it."
+      ],
+      "ictSupport": "The learner can use a digital camera to capture images to be used in a word-processed experiment or report.",
+      "notes": "The actual (quality) soil types should be used for experiments."
+    },
+    {
+      "topicCode": "2.2",
+      "topicName": "SOIL EROSION AND CONSERVATION: CAUSES, EFFECTS, AND PREVENTION",
+      "seniorLevel": "S2",
+      "term": "1",
+      "theme": "Soil",
+      "durationPeriods": 16,
+      "competency": "The learner knows how and why soil fertility should be maintained for the soil to continue to be useful to living organisms.",
+      "learningOutcomes": [
+        "a) know the features of fertile soil (k)",
+        "b) understand the process of and factors leading to soil erosion (u)",
+        "c) understand the causes of reduced soil fertility and describe methods of soil conservation (u, v)",
+        "d) understand the importance of microorganisms in the nitrogen and other cycles that keep soil fertile (u)",
+        "e) outline the processes involved in the nitrogen cycle (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners discuss conclusions from Topic 2 and agree on a list of the features of fertile soil. Present their conclusions to the class.",
+        "In groups, learner's research on the causes of soil erosion and the impact erosion has on communities. Produce a short presentation to show the types and the possible impact.",
+        "In groups, learners discuss what steps farmers and gardeners in their locality take to maintain the fertility of their soils. Then research and write a report on the different methods used to maintain soil fertility and conserve soil in the following regions of Uganda: Lake Victoria basin, Kigezi highlands, Karamoja region",
+        "In groups, learners carry out research into soll organisms that are called decomposers. Produce a short presentation drama /to explain why they are so important.",
+        "In groups, learners use labelled cards to role play and explain the nitrogen cycle.",
+        "In groups, learners design and carry out an investigation to show the presence of microorganisms in root nodules, soils and compost. Present their findings to the whole class and compare with other groups",
+        "Group Project: Design, perform and write a report on an investigation into the formation of compost in a compost bin. Report on the process of composting, how fast different materials decompose, any organisms (decomposers) that seem to be involved in the process, and anything else significant or interesting."
+      ],
+      "assessmentStrategies": [
+        "Through listening to group discussions, or through whole class discussion, gauge whether all learners understand the features of fertile soils, the causes and impact of soil erosion, and the steps taken to increase fertility and reduce erosion",
+        "Observe groups carrying out activities and check they communicate effectively and work as teams so that everyone is learning and developing skills",
+        "Listen to pairs' conversations and monitor their progress towards learning outcomes",
+        "Intervene as appropriate to deepen learning",
+        "Observe groups interacting and intervene as appropriate to steer research and project planning so that learning outcomes are achieved",
+        "Evaluate quality of products: presentations and reports"
+      ],
+      "ictSupport": "The learner can use mind mapping or word processing software to relate methods of soil conservation to the principles that apply to them.\nThe learner can use a suitable graphical program to develop simulations of the nitrogen cycle.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.1",
+      "topicName": "NUTRITION TYPES AND NUTRIENT COMPOUNDS",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Nutrition in plants and animals",
+      "durationPeriods": 11,
+      "competency": "The learner understands that organisms have different nutritional requirements, and that humans have different requirements; depending on age and other factors.",
+      "learningOutcomes": [
+        "a) understand the term nutrition (k, u)",
+        "b) identify the food nutrients, their sources, and importance to humans (u)",
+        "c) perform food tests for various nutrients (only quality testing required) (s)",
+        "d) appreciate the importance of a diet containing the different nutrients (u, v)",
+        "e) appreciate the concept of balanced diet in relation to age, sex, and an individual's activity (u, v)",
+        "f) appreciate the causes and effects of nutrient deficiency in humans including diseases related to malnutrition (u, s)",
+        "g) calculate body mass index (BMI) and explain its implication (s, v)",
+        "h) identify the major plant mineral nutrients (N, P, K, Mg, Ca, S, Mg), their role, and the symptoms of deficiencies (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners brainstorm and research on the meaning of the term nutrition. Share and agree on meaning with the class.",
+        "In groups or pairs, learners carry out tests on foods such as potato, egg yolk, milk, groundnuts, and pineapple to determine what main food nutrients they contain.",
+        "In groups or as a whole class, learners discuss, research and report on: the meaning of the term 'balanced diet' and what this might mean for a baby, a child, an adult woman and adult, an athlete, and an inactive person. They record their conclusions; the likely effects of an imbalanced diet",
+        "In groups, learners discuss, research and report on the dangers of: obesity, bulimia and anorexia; use of drugs (diet pills and steroids) to change body image",
+        "In groups, learners measure their weight (kg) and height (cm), and use the results to calculate their BMI. With reference to the standard BMI chart they determine their BMI status. They discuss the implications of being underweight and overweight, and what to do in both cases.",
+        "Learners listen to a talk or write a short speech on self-esteem in relation to physical differences in body shape and size.",
+        "In groups, learners design and perform an experiment to compare the growth of a plant in distilled water and pond water and/or other water rich in nutrients. Learners use scientific method to write a report.",
+        "In groups, learners research on the uses of N, P, K, Mg, Ca, S and Mg to plants and the effects of deficiencies. Groups present their findings to the class (illustrated, if possible), with examples of leaves in good health, and showing deficiencies found in the locality."
+      ],
+      "assessmentStrategies": [
+        "Observe groups and pairs carrying out activities. Check they carry out tests and research effectively, and plan experiments that will give valid results.",
+        "Listen to pairs' discussions and monitor understanding and progress towards learning outcomes. Ask probing questions to deepen learning",
+        "Evaluate quality of products from activities: reports and conclusions from tests and investigations; presentations, and explanations."
+      ],
+      "ictSupport": "The learner can: use mind mapping or word processing software to categorise food groups and their sources; use spreadsheets to record and analyse experimental data; use the internet to research on malnutrition",
+      "notes": "Minerals are limited to Ca P Fe and I; vitamins are limited to B, C, D and K."
+    },
+    {
+      "topicCode": "3.2",
+      "topicName": "NUTRITION IN GREEN PLANTS",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Nutrition in plants and animals",
+      "durationPeriods": 10,
+      "competency": "The learner understands that plants are autotrophic, carrying out photosynthesis to make complex food molecules from light energy, water, and carbon dioxide.",
+      "learningOutcomes": [
+        "a) understand the meaning of autotrophic and heterotrophic nutrition (k)",
+        "b) derive the meaning of the term photosynthesis and understand the process (u, s)",
+        "c) perform experiments to investigate the factors that affect the rate of photosynthesis (s, gs)",
+        "d) appreciate the structures and adaptations that enable a leaf to carry out the process of photosynthesis (k, u)"
+      ],
+      "suggestedActivities": [
+        "In pairs or groups, learners discuss, research on and document: the meaning of autotrophic and heterotrophic nutrition; why autotrophs are the providers of all food; the origin and meaning of the term photosynthesis; the equation for photosynthesis and its implications regarding what plants need for photosynthesis",
+        "In groups, learners design and carry out experiments to show the need for carbon dioxide, light and chlorophyll, during photosynthesis. Learners produce a formal report at the end of the experiments that includes the following: title, question, prediction, materials, procedure, record/analysis of results, and conclusion. Groups present their report to the rest of the class",
+        "In groups learners examine diagrams, photographs or microscope slides of sections through a leaf and discuss how the structure is adapted so that cells can obtain the water, carbon dioxide, light, and energy they need. Groups share findings and through whole class discussion agree on conclusions",
+        "Group Project: Develop a simple 3D model of the internal structure of a leaf using locally available materials."
+      ],
+      "assessmentStrategies": [
+        "Listen to discussion and ask probing questions to promote critical thinking and guide learners towards learning outcomes.",
+        "Observe pair and group activities to monitor development of practical skills, effectiveness of experiment designs, and accuracy of models.",
+        "Evaluate products: conclusions from discussion and research; reports on experiments, findings about leaf structure, and 3D leaf models."
+      ],
+      "ictSupport": "The learner can: use the internet to research on photosynthesis; use a word processor or slide presentation software to report findings of the experiments; use data collection technology such as oxygen and carbon dioxide sensors to examine the products of photosynthesis.",
+      "notes": null
+    },
+    {
+      "topicCode": "3.3",
+      "topicName": "NUTRITION IN MAMMALS",
+      "seniorLevel": "S2",
+      "term": "2",
+      "theme": "Nutrition in plants and animals",
+      "durationPeriods": 15,
+      "competency": "The learner knows that animals are heterotrophic; obtaining their nutrients from existing plant or animal sources.",
+      "learningOutcomes": [
+        "a) understand the role of enzymes in influencing life processes; and appreciate that the working of enzymes may be affected by different factors (No details of lock and key mechanism required) (u, s)",
+        "b) conduct experiments on and explain the effects of pH and temperature on enzyme activity (s, gs)",
+        "c) understand the effect of pH and temperature on enzyme activity (u)",
+        "d) know and identify different types of mammalian teeth, and relate their structure and position in the jaw to diet (k, u, s)",
+        "e) understand the importance of oral hygiene, and describe good practice in caring for teeth and gums in humans (u, V)",
+        "f) appreciate the structure of the different parts of the mammalian alimentary canal, and its role in the digestion of food (k, u)",
+        "g) understand how the end products of digestion are absorbed and assimilated (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners research on and discuss the effects of enzymes on chemical reactions, list the properties of enzymes, and the names and functions of some enzymes, that work in the human digestive system. Produce a presentation to explain findings.",
+        "In groups, learners design and carry out an experiment to determine the effect of one factor (pH or temperature) on enzyme activity. Share findings with other groups and develop understanding of the effect of pH and temperature on enzyme activity. Check findings against established science theory.",
+        "In pairs, learners observe a molar, canine, pre-molar and incisor tooth and identify: the common structural features of each of the teeth in a mammal; the adaptations of each type of tooth to its function. Learners make an accurate labelled drawing of each tooth and state the magnification.",
+        "In pairs, learners share experience and research on reasons for, and methods of ensuring dental hygiene as well as consequences of poor hygiene. Produce a short good practice guide.",
+        "In pairs, learners research on and write the dental formula for a herbivore, a carnivore and an omnivore.",
+        "In pairs, learners observe an unlabelled chart and, through discussion and research, identify and name the parts of the alimentary canal and associated organs, labelling the parts and adding their functions",
+        "Guide groups of learners to design a controlled experiment to determine what substances are digested in the mouth: include the hypothesis; describe the experimental design; indicate the control group(s); describe the results of the test",
+        "In groups, learners simulate the process of digestion, its products and their absorption using either: labelled cards with names of parts of the alimentary canal and different food types; strings of beads that can be linked and unlinked; role play (holding hands to form long chain molecules, releasing hands when 'digested' to become small sub-units that can be absorbed)",
+        "Learners produce annotated diagrams to explain their understanding of digestion and absorption",
+        "Use a variety of methods (e.g. involving a food scientist, book and internet research, and animations) to enable learners to understand the meaning of assimilation and how the body uses each of the following nutrients: carbohydrates, lipids, proteins, mineral salts, vitamins. Learners document their findings in a mind map or spider diagram"
+      ],
+      "assessmentStrategies": [
+        "Observe groups carrying out research and experiments to check that engagement in skills development and experiment designs is appropriate for achieving learning outcomes. Steer learners towards learning outcomes if necessary",
+        "Listen to, and engage in group conversations and ask probing questions to check and guide progress towards learning outcomes.",
+        "Evaluate quality of products: findings on role of enzymes; explanation of effect of pH and temperature on the rate of reaction; clarity of drawings; accuracy and creativity of presentations; drawings, guide and dental formulae; experiment reports, simulations, mind maps/spider diagrams, descriptive reports"
+      ],
+      "ictSupport": "The learner can use the internet to study enzymes and their roles in life processes.",
+      "notes": null
+    },
+    {
+      "topicCode": "4.1",
+      "topicName": "TRANSPORT IN PLANTS",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Transport in plants and animals",
+      "durationPeriods": 18,
+      "competency": "The learner appreciates how substances enter and exit from cells and knows the transport processes in plants, the structures involved, and their functions.",
+      "learningOutcomes": [
+        "a) understand the importance and key methods of movement of materials into and out of cells (u)",
+        "b) investigate the different ways in which materials move into, though, and out of cells (s)",
+        "c) know how the root hair is adopted for absorption of water and mineral salts (u)",
+        "d) understand the processes of transpiration and translocation (u)",
+        "e) conduct experiments on and understand the factors that affect transpiration (s, u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners observe a tea bag in a clear glass container of still warm water for a period of five minutes, then discuss and explain their observations. Whole class discussion leads to understanding of the process of diffusion.",
+        "In groups, learners use scientific process skills to design and carry out an experiment to show the effect of solutions of different concentrations on raw unshelled eggs and raw potatoes. Groups discuss and draw conclusions to explain their results. Individuals write reports at the end of the experiment that include the following: title, question, prediction, materials, procedure, record / analysis of results and conclusion. Groups present their work to the rest of the class.",
+        "In groups, learners discuss and research the meanings of diffusion, osmosis and active transport, as well as the circumstances in which each is involved in the entry and exit of substances to and from cells. Groups present conclusions in a comparison table",
+        "In pairs, learners use a drawing and look at germinated seedlings to explain how the root hair is adopted for absorption of water and mineral salts. Pairs prepare a report to share with the class. Through whole class discussion, learners agree on the correct explanation, and record it in notes and or diagrams.",
+        "In pairs, learners consider what they know about leaf structure, transport vessels in stems, roots and root hairs, and connect their learning to explain how the process of transpiration takes place. Individuals produce an annotated diagram to explain the process.",
+        "In pairs or groups, learners research on the need for, and the meaning of, translocation in plants. Share findings with the class before learners go on to explain in notes and diagrams.",
+        "In groups, learners use scientific process skills to design and carry out experiments to investigate how wind, temperature, and light intensity affect the rate of transpiration. Groups consider the significance of their findings for farmers and growers, and report their findings and conclusions to the class."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups carrying out activities. Check that they understand how to use resources effectively, take due account of prior learning, use research skills well, and plan valid experiments.",
+        "Listen to pair and group discussions, monitor progress towards learning outcomes and ask questions to help learners develop skills and deepen understanding.",
+        "Evaluate quality of products from activities: report on root hairs; transpiration diagram; Translocation, and investigations of conditions affecting transpiration rates"
+      ],
+      "ictSupport": "The learner can use any word processor to prepare an activity report on their investigation of the osmotic flow of water through plant material.",
+      "notes": "Cover the basic principles of diffusion, osmosis, and active transport ONLY."
+    },
+    {
+      "topicCode": "4.2",
+      "topicName": "TRANSPORT IN ANIMALS",
+      "seniorLevel": "S2",
+      "term": "3",
+      "theme": "Transport in plants and animals",
+      "durationPeriods": 18,
+      "competency": "The learner appreciates that animals have special systems for the efficient transport of materials around their bodies, and understand the principles of how these systems operate.",
+      "learningOutcomes": [
+        "a) understand the principle of the surface area to volume ratio (s)",
+        "b) know the need for a transport system, and identify the components involved in the transport system in mammals (k)",
+        "c) describe the structure of the heart and how it functions (u, s)",
+        "d) understand how structure of blood vessels are related to their function by comparing arteries, veins and capillaries (u, s)",
+        "e) identify the major functions of blood, and relate the functions to the components of blood (u, s)",
+        "f) understand the causes and prevention of diseases associated with the heart (high blood pressure, coronary heart disease and stroke) (u, v)",
+        "g) understand the importance of knowledge of blood groups for blood transfusion (k, u)",
+        "h) appreciate the role of blood in the defence of the human body (u)",
+        "i) know how immunity is weakened by various infections including HIV (k, u)",
+        "j) understand the process of the formation of lymph and its flow around the body (k, u)",
+        "k) appreciate the function of the lymphatic system in maintaining a healthy body (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners use cubes of different dimensions to calculate the surface area to volume ratios of the cubes, then discuss and explain the biological significance of calculated ratios.",
+        "In pairs, learners discuss what they already know about the components of their circulatory systems.",
+        "In pairs, learners discuss the structure and function of the heart, referring to diagrams and a model. Pairs share their thoughts in groups or whole class discussion. Learners draw and label the parts of a mammalian heart adding clear notes relating to function.",
+        "In groups, learners design a model, visual aid, animation or drama to illustrate blood flow/circulation in the human body and present to the class.",
+        "In pairs, learners research on structures of arteries, capillaries and veins, and produce tables, models or diagrams to show how structure is related to function in each case.",
+        "In pairs, learners research on components of blood and their functions and produce a table summarising their findings to share with the class.",
+        "Organise learners to visit a health facility to find out about the causes and prevention of high blood pressure, coronary heart disease, and stroke. Learners write a report on the causes and their prevention.",
+        "Learners watch a video clip or listen to a talk from blood bank personnel to find out the importance of blood transfusion and the possible risks involved. In pairs, learners complete a short report on the benefits and risks of transfusions, including compatible blood groups."
+      ],
+      "assessmentStrategies": [
+        "Listen to pair and group conversations and whole class discussion to monitor progress towards learning outcomes. Intervene as appropriate to ensure all understand and to deepen learning.",
+        "Observe pairs and groups carrying out activities; check that all contribute so that everyone is learning and developing skills. Steer progress towards learning outcomes.",
+        "Evaluate quality of products of each activity: annotated diagrams, Presentations, summary tables, reports, and role plays."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "5.1",
+      "topicName": "GASEOUS EXCHANGE",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "Respiration in plants and animals",
+      "durationPeriods": 14,
+      "competency": "The learner knows the functions of, and is able to recognize the similarities and differences of, gas exchange surfaces in different organisms.",
+      "learningOutcomes": [
+        "a) appreciate the need for a gaseous exchange system in a multicellular organisms (u)",
+        "b) identify adaptations of gas exchange surfaces (u)",
+        "c) understand the structure of the human respiratory system, and explain the mechanism of gaseous exchange in humans (u, s)",
+        "d) determine and understand the variation in the percentage composition of gases in inhaled and exhaled air (s, u)",
+        "e) understand the dangers of smoking and air pollution to gas exchange surfaces in the lungs (u,v/a)",
+        "f) know the causes, symptoms and treatment of diseases (bronchitis, emphysema, lung cancer, throat cancer, and chronic cough) associated with respiratory organs in humans (k, (n"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners think about their prior learning on surface area to volume ratios. Explain verbally or on paper why multicellular organisms need specialised systems for gaseous exchange.",
+        "Learners draw and label the structure of the human respiratory system.",
+        "In pairs, learners use models to explain the mechanism of gaseous exchange in humans and share models with/explain models to the class.",
+        "In pairs, learners conduct experiments to analyse inhaled and exhaled air, and report the significance of their observations.",
+        "In groups, learners design, perform, and report on an experiment to demonstrate the tar in cigarette smoke that is so damaging to the gas exchange surfaces in the lungs.",
+        "Learners find out the causes, symptoms, and treatment of bronchitis, emphysema, lung cancer, throat cancer, and chronic cough through a visit to a health facility, video clips, health advice publicity materials, books or other resources.",
+        "Design a poster for secondary school students to put them off smoking tobacco and marijuana"
+      ],
+      "assessmentStrategies": [
+        "Listen to pair and group discussions and ask probing questions to promote critical thinking and deepen understanding.",
+        "Observe groups as they interact and examine specimens, research or use models. Help as appropriate to set up experiments correctly and guide them towards learning outcomes.",
+        "Evaluate quality of products: clarity of explanations and drawings; models and group reports; accuracy and creativity of presentations and posters."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "5.2",
+      "topicName": "AEROBIC AND ANAEROBIC RESPIRATION",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "Respiration in plants and animals",
+      "durationPeriods": 15,
+      "competency": "The learner appreciates that the energy living organisms use is obtained from food through aerobic or anaerobic respiration.",
+      "learningOutcomes": [
+        "a) appreciate the importance of the process of respiration (both aerobic and anaerobic) (u)",
+        "b) understand and outline the process and site of aerobic respiration (u)",
+        "c) appreciate the relationship between plants and animals in relation to aerobic respiration and photosynthesis (s, gs)",
+        "d) understand circumstances in which organisms including humans use anaerobic respiration (u)",
+        "e) understand and outline the process of anaerobic respiration (u)",
+        "f) carry out investigations to find the products of anaerobic respiration in plants and animals (s)",
+        "g) understand some applications of anaerobic respiration in everyday life (u)",
+        "h) compare aerobic with anaerobic respiration (s)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners discuss the importance of respiration and the consequence of respiration failing to occur.",
+        "In pairs, learners research on and write the word and symbol equations for aerobic respiration, and the site in cells where this takes place.",
+        "In groups, learners use scientific process skills to design and carry out experiments to show the release of energy, production of carbon dioxide and water, and use of oxygen during aerobic respiration. Report to class on process and findings",
+        "Class discussion on: 'What happens if the food a person eats contains more energy than the body needs?\"",
+        "Class debate about: 'Plants and animals can live and survive entirely independent of each other'",
+        "In pairs, learners research on when and why animals and plants use anaerobic respiration and its products (including by repeatedly clenching both fists with one arm down and one raised). Share conclusions through whole class discussion.",
+        "Learners write down the word equation for anaerobic respiration in plants and animals.",
+        "In groups, learners design and carry out experiments to show: fermentation using yeast; anaerobic respiration in germinating seeds. Share groups' reports on outcomes",
+        "In groups, learners design and give a presentation to explain applications of anaerobic respiration in everyday life.",
+        "Individually, learners complete a comparison table for the two types of respiration."
+      ],
+      "assessmentStrategies": [
+        "Observe pair/group interactions and experiments, and assist where necessary, to ensure progress towards learning outcomes.",
+        "Listen to learners' discussions and debates. Probe to promote critical thinking, understanding, and skills development",
+        "Evaluate quality of products: explanations, reports, discussion and debate, equations, presentations, and comparison tables."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "6.1",
+      "topicName": "EXCRETION IN ANIMALS",
+      "seniorLevel": "S3",
+      "term": "1",
+      "theme": "Excretion",
+      "durationPeriods": 19,
+      "competency": "The learner understands that different organs excrete different waste products, and is able to relate the organs of excretion in the human body to their functions.",
+      "learningOutcomes": [
+        "a) appreciate the need to remove unwanted substances from the bodies of living organisms (u)",
+        "b) understand the process of excretion in humans, including the loss of waste products in sweat, urine and through breathing (k, u)",
+        "c) understand and explain how and why the human body reacts to raised levels of carbon dioxide (u, s)",
+        "d) Identify the causes, symptoms and treatment of kidney failure (u)",
+        "e) understand the need for tests to determine the presence of glucose and protein in urine, and explain the significance of the tests (u, s, v)",
+        "f) recognise the need for proper disposal of human waste; e.g. urine (s, v)"
+      ],
+      "suggestedActivities": [
+        "In pairs, discuss the waste products that organisms need to excrete, and the implications for living cells if they were not able to remove them. Share conclusions in whole class discussion. Distinguish between waste products and undigested waste (faeces)",
+        "In groups, learners examine a dissected mammal or a diagram/video of one. Learners observe and identify the organs associated with excretion and record their observations.",
+        "In groups, learners research the functions and processes that take place in the kidneys, and create a simulation explaining the processes of ultrafiltration and re-absorption.",
+        "In pairs, learners consider prior learning and experience of taking exercise to explain how and why carbon dioxide levels affect breathing rate. Share thinking with the whole class.",
+        "Learners visit a health facility, listen to a medic or carry out research to find out the causes, symptoms and treatment of kidney failure. They write a report.",
+        "In groups, learners carry out experiments to detect glucose and protein in Urine. Research reasons for and consequences of these problems.",
+        "In pairs, learners research, discuss, and share conclusions relating to: alternative ways that human urine can be used, and how to manage human wastes like urine for a healthy environment at school; why a build-up of sweat can become smelly and the importance of hygiene"
+      ],
+      "assessmentStrategies": [
+        "Observe groups interacting and intervene when necessary to ensure that activities are leading to learning outcomes being achieved.",
+        "Listen to learners' conversations/discussions and ask questions to monitor progress and understanding. Intervene to offer guidance as appropriate.",
+        "Evaluate quality of products: oral contributions to the discussions, reports, simulations, and verbal explanations"
+      ],
+      "ictSupport": null,
+      "notes": "Remind learners that excretion takes place in all living organisms including lower organisms and plants."
+    },
+    {
+      "topicCode": "7.1",
+      "topicName": "CHEMICAL COORDINATION IN HUMANS",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Coordination in animals",
+      "durationPeriods": 18,
+      "competency": "The learner appreciates that there are organs in the body that secrete chemicals called hormones, which play vital roles in coordinating body functions.",
+      "learningOutcomes": [
+        "a) differentiate between hormones and enzymes (u)",
+        "b) know and understand the effects of various hormones in the human body (k, u)",
+        "c) know and describe the causes and symptoms of common hormonal disorders/diseases (diabetes, goitre and osteoporosis) in humans (k, u)",
+        "d) appreciate the role of diet in managing hormonal disorders/diseases in humans (u)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners research on and discuss the meaning of hormone, and produce a table comparing hormones and enzymes. Pairs share conclusions in class discussion and ensure all have clear understanding.",
+        "Learners use a chart of the endocrine system to locate the different endocrine glands, and to note the hormones they produce and their effects.",
+        "Role play: learners pick cards labelled with the names of either endocrine glands, the hormones secreted by the glands or the target organs, and simulate the movement of the hormones from the glands to the target organs, giving descriptions of their effects on the target organs",
+        "In groups, learners discuss and report on the role of hormones in the regulation of reproductive and sexual functioning in adolescent boys and girls; particularly the development of secondary sexual characteristics.",
+        "In groups, learners discuss and produce a chart showing the causes and symptoms of diabetes, goitre, and osteoporosis.",
+        "In pairs, learners research on and develop a one-day meal plan for a person suffering from diabetes."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups engaging in activities. Intervene as necessary to ensure that all are participating and making progress with each task towards learning outcomes.",
+        "Listen to learners' discussions and ask questions to encourage creativity and critical thinking. Ensure all learners grasp concepts and understand.",
+        "Evaluate quality of products: oral contributions, charts, role plays, reports, and meal plans."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "7.2",
+      "topicName": "NERVOUS COORDINATION IN HUMANS",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Coordination in animals",
+      "durationPeriods": 22,
+      "competency": "The learner appreciates that nerve impulses are forms of communication between receptor and effector organs and that impulses are affected/interrupted by chemicals found in drugs and alcohol.",
+      "learningOutcomes": [
+        "a) understand how the nervous system (brain, spinal cord, and nerves) extends to all parts of the body and has sensory and motor functions (u)",
+        "b) identify the parts of the brain (cerebrum, cerebellum, medulla oblongata, pituitary gland and hypothalamus) and describe the role of the parts (k, u)",
+        "c) understand the concept of reflex action, identify the five components and explain their functions (k, u)",
+        "d) differentiate between voluntary and involuntary responses (u)",
+        "e) distinguish between substance/drug use and abuse (k, s)",
+        "f) know the common substances and drugs abused in Uganda and understand the physiological, social and economic effects of substance and drug abuse (k, u)",
+        "g) understand how to prevent, control and avoid involvement in substanice and drug abuse (u, v, gs)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners discuss what they know about the nervous system and its components, then research on and discuss the meaning of sensory and motor functions. Pairs share their conclusions in class discussion.",
+        "Individuals draw a sketch of a human being showing how the brain is connected to the spinal cord and nerves.",
+        "In pairs, learners research on the five key components of the brain and their functions, and produce an annotated diagram to show them.",
+        "In pairs, learners test each other's 'knee jerk' reflex and discuss whether this is a voluntary or involuntary response. Pairs contribute to discussion of findings and benefits of involuntary reflex actions and give examples of other reflex actions. Individuals produce annotated diagrams of a reflex arc showing functions of parts.",
+        "In groups, learners discuss the physiological, social and economic effects of drug and substance abuse (alcohol, cigarettes, marijuana, kuber, khat, shisha, and petrol/glue) and the reasons why some people get involved with them.",
+        "Groups write strategies for a campaign on the avoidance, prevention and control of drug abuse in schools and communities; design posters that communicate the key messages."
+      ],
+      "assessmentStrategies": [
+        "Observe and listen to learners working in pairs, and intervene to ensure learning outcomes are being achieved.",
+        "Evaluate quality of sketches, contributions to class discussion, and annotated diagrams.",
+        "Listen to learners' discussions and observe interactions to check that all are participating and developing their understanding of the issues.",
+        "Ask probing questions to promote critical thinking and creativity in the search for solutions to include in strategy posters.",
+        "Evaluate quality of posters."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "7.3",
+      "topicName": "RECEPTOR ORGANS IN MAN",
+      "seniorLevel": "S3",
+      "term": "2",
+      "theme": "Coordination in animals",
+      "durationPeriods": 8,
+      "competency": "The learner appreciates that the sensory organs (eye and ear) detect stimuli, and enable the body to respond and function properly.",
+      "learningOutcomes": [
+        "a) understand the roles and functions of the human eye and ear as sense organs (u)",
+        "b) understand what short and long sightedness is and how they can be corrected (u, s, v)"
+      ],
+      "suggestedActivities": [
+        "In pairs, learners explore and discuss the external features of the eye and diagrams of a cross-section. Draw the structure and write notes on the functions of each part.",
+        "Learners research on short and long sightedness by visiting a health facility, having a visit from an ophthalmologist, or using other resources. Learners write a report including diagrams to show how to correct the problems.",
+        "In pairs, learners explore and discuss the external features of the ear and diagrams of a cross-section, Draw the structure and write notes on the functions of each part."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs' interactions and understanding demonstrated by diagrams and notes. Intervene to ensure progress towards learning outcomes.",
+        "Listen to learners' discussions and probe to promote critical thinking, and deepen learning.",
+        "Evaluate quality of annotated diagrams and reports."
+      ],
+      "ictSupport": "The learner can use the internet to research on the central nervous system, eye and ear.",
+      "notes": null
+    },
+    {
+      "topicCode": "8.1",
+      "topicName": "LOCOMOTION IN MAMMALS",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Locomotion in animals",
+      "durationPeriods": 20,
+      "competency": "The learner understands how muscles and the skeleton interact to produce movement in mammals.",
+      "learningOutcomes": [
+        "a) understand the structure and functions of the skeleton in supporting the human body (k, u)",
+        "b) identify and describe the bones that form the two divisions of the human skeleton (k, u, s)",
+        "c) understand how the action of muscles on the skeleton causes movements in animals (u, s)",
+        "d) understand the causes, effects and preventive measures of muscle cramps (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners research the structure of the human skeleton using a 3D model, their own bodies, diagrams, animations, and other online resources in order to: identify the two divisions of the skeleton; name the bones that form the appendicular and axial skeleton; identify the regions of the axial skeleton; draw and label examples of cervical, thoracic and lumbar vertebrae; identify the parts for muscle attachment on the vertebrae",
+        "Working in pairs, learners use their bodies to identify movable parts and the plan in which the movement occurs at each joint. They produce a table naming the joints and the type of movement that occurs at each.",
+        "In pairs, learners observe each other moving the forearm up and down (bending the arm at the elbow). Learners identify the set of muscles that bring about each movement and research on the name of the muscles responsible for lifting and for extending the arm. Pairs produce an annotated diagram explaining their conclusions.",
+        "Project: In pairs, learners research on the structure of any flexible joint. Develop a model or draw an annotated diagram to explain its structure and function.",
+        "In pairs, learners share experience of and research on the causes and effects of cramps and how to avoid them. They produce a short advisory leaflet."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups engaging in activities and carrying out experiments to ensure involvement and productive use of time leading to appropriate learning.",
+        "Listen to learners' conversations and contributions to class discussion and ask probing questions to encourage critical thinking and progress towards learning outcomes.",
+        "Evaluate quality of explanations, research findings, experiment reports, and written/ drawn explanations.",
+        "Observe pairs engaging in activities and offer advice to overcome any barriers to learning.",
+        "Listen to learners' discussions and ask questions to promote critical thinking and boost progress towards learning outcomes.",
+        "Evaluate quality of learning through products: tables, diagrams, models, and leaflets."
+      ],
+      "ictSupport": "The learner can use mind mapping or word processing software to categorise the different types of joints in a human body",
+      "notes": "Functions of skeleton limited to: protection, muscle attachment, manufacture of blood cells, support and provision of body framework, with a brief illustration of example(s) in each case."
+    },
+    {
+      "topicCode": "9.1",
+      "topicName": "GROWTH IN PLANTS AND ANIMALS",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Growth and development in plants and animals",
+      "durationPeriods": 12,
+      "competency": "The learner understands how, throughout its life, an organism goes through changes in size.",
+      "learningOutcomes": [
+        "a) distinguish between the terms 'growth' and development'(u)",
+        "b) appreciate that mitosis leads to increase in size and weight in animals (u, s)",
+        "c) understand the internal and external structure of a seed (k, u)",
+        "d) conduct experiments on conditions necessary for seed germination (s)",
+        "e) identify the roles of water, oxygen, and temperature in the process of germination (u)",
+        "f) identify and describe the type of seed germination in monocots and dicots (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners examine images of young and mature plants and animals (including some that metamorphose). Discuss and derive the meaning of the terms 'growth' and 'development', and share conclusions with the class.",
+        "In pairs, learners examine data from growth cards of five babies, draw growth curves and make deductions from the graphs.",
+        "In groups, learners role-play the process of mitosis using cards showing the different stages (names of stages not required), and show role play to the class",
+        "In groups or pairs, learners discuss and explain verbally or in writing, the importance of mitotic cell division in living organisms.",
+        "In pairs, learners examine a fresh bean and a maize seed (soaked overnight), and: describe and draw the external features; cut the seeds longitudinally, observe using a hand lens, describe and draw the internal structure",
+        "In groups, learners use scientific process skills to design, carry out and report on an experiment to investigate whether air and water are necessary for germination, and the effect of temperature on germination.",
+        "Group project: Learners plant a set of bean and/or maize seeds. From the time of germination, they monitor and record the changes in length every week for up to 10 weeks. Record growth and development information; presenting growth data in a graph."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups and ensure that they are making progress towards achieving learning outcomes. Steer them as appropriate.",
+        "Listen to learners' conversations and ask questions to ensure that they all engage, think critically and grasp concepts of growth, development, and mitosis.",
+        "Evaluate quality of verbal and written reports, experiment reports, observations shown in drawings, and project report.",
+        "Involve class in peer assessment of role plays."
+      ],
+      "ictSupport": "The learner can use data processing software to show changes in height of a germinating seed over time.",
+      "notes": null
+    },
+    {
+      "topicCode": "9.2",
+      "topicName": "DEVELOPMENT IN PLANTS AND ANIMALS",
+      "seniorLevel": "S3",
+      "term": "3",
+      "theme": "Growth and development in plants and animals",
+      "durationPeriods": 16,
+      "competency": "The learner understands that organisms develop specialized cells, tissues, and organs as they grow leading to changes in structure and function.",
+      "learningOutcomes": [
+        "a) understand the need for differentiation of cells as multicellular plants and animals grow (u)",
+        "b) understand the process of secondary growth of stems in dicotyledonous plants (u)",
+        "c) know the meaning of the term metamorphosis, and compare complete and incomplete metamorphosis (k, u, s)",
+        "d) know the stages of development in an insect (k)",
+        "e) understand the lifecycles of a housefly, cockroach, mosquito, bee, and butterfly (u)",
+        "f) recognise and compare the main characteristics of stages of human development from birth to adulthood, including the developmental stages of a child (physical, behavioural, and cognitive) (k, s)",
+        "g) understand the physical, physiological, psychological, (emotional) and behavioural changes associated with adolescence and puberty, highlight the associated myths (u, s, v)",
+        "h) understand and be able to cope with changes related to secondary sexual characteristics at puberty (u, s, v)",
+        "i) understand various features related to the process of aging (u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners discuss the need for cells to become specialised as animals and plants grow, considering the different types of cells in their own bodies and in plants they can see in the locality. Groups share conclusions in whole class discussion and agree on a definition of cell differentiation.",
+        "In pairs, learners research on secondary growth in dicot stems. Pairs share understanding with larger group and record agreed conclusions in annotated diagrams or notes.",
+        "Learners observe video clips of complete and incomplete metamorphosis, or research using different sources. In pairs, learners produce a table comparing the two types. Individuals produce drawings to show stages of each type of metamorphosis in insects.",
+        "In pairs, learners research on and produce life cycle diagrams for housefly, cockroach, mosquito, bee, and butterfly; annotating diagrams to illustrate the type of metamorphosis each undergoes.",
+        "In groups, learners observe drawings, animations or other sources and discuss the stages of human development; noting the physical, behavioural, and and cognitive changes that take place from birth, through childhood and adulthood into old age (in notes and/or drawings)",
+        "In whole class discussion, key points about stages of development are shared including features of the aging process.",
+        "In groups, learner's research on physical, physiological, psychological/emotional and behavioural changes associated with adolescence and puberty.",
+        "In whole group discussion, myths associated with sex, ejaculation, menstruation and pregnancy are discussed and debunked. Strategies for coping with changes at puberty are shared and agreed on. Individuals record key points from discussions."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups involved in activities to ensure that all are involved (taking into account that this unit involves discussion of sensitive issues), and making good use of resources and time.",
+        "Listen to pair and group conversations and contributions to class discussion. Ask probing questions to encourage learners to engage with sensitive topics so that all make progress and achieve learning outcomes.",
+        "Evaluate quality of products: oral feedback, notes, drawings, diagrams, and reports."
+      ],
+      "ictSupport": "The learner can use the internet as a source of research information on body changes.",
+      "notes": null
+    },
+    {
+      "topicCode": "10.1",
+      "topicName": "ASEXUAL REPRODUCTION IN PLANTS (VEGETATIVE REPRODUCTION)",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Reproduction in organisms",
+      "durationPeriods": 10,
+      "competency": "The learner appreciates that some parts of a plant can develop into new independent plants.",
+      "learningOutcomes": [
+        "a) know the meaning of asexual reproduction (k)",
+        "b) understand how plants reproduce asexually (u, s)",
+        "c) understand that asexual reproduction in plants has important commercial applications (k, u)"
+      ],
+      "suggestedActivities": [
+        "Learners carry out a field study to observe plants, identifying possible parts that have been or could be used to get new plants of the same kind. Learners report findings in a table with drawings as appropriate",
+        "In groups, learners research on and discuss the crops in Uganda that are grown by vegetative reproduction on a large scale, and produce a report",
+        "Group project: Grow plants in school by, for example, layering (strawberries), stem cutting (cassava), and root cuttings, as well as grafting (citrus). Groups research and report the key principles underlying each method of propagation used and possible reasons for success (or failure)",
+        "Brainstorm advantages and disadvantages of vegetative propagation in plants. Through class discussion agree on answers, and record answers in a table."
+      ],
+      "assessmentStrategies": [
+        "Observe groups engaging in activities and carrying out the project to ensure effective and productive use of time leading to learning outcomes",
+        "Listen to learners' conversations and contributions to class discussion. Ask questions to encourage critical thinking and promote progress towards learning outcomes.",
+        "Evaluate quality of reports, research findings, project report, and comparison table."
+      ],
+      "ictSupport": "The learner can use the internet to obtain information to support learning.",
+      "notes": null
+    },
+    {
+      "topicCode": "10.2",
+      "topicName": "SEXUAL REPRODUCTION IN PLANTS",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Reproduction in organisms",
+      "durationPeriods": 16,
+      "competency": "The learner understands that the flower is the specialized organ in which all events of a plant's sexual reproduction occur, leading to the formation of an embryo located in the seed.",
+      "learningOutcomes": [
+        "a) recognise the flower structures that are involved in the processes of pollination, fertilisation, fruit and seed development and outline their functions (k, u, s)",
+        "b) know the processes of pollination, fertilization and fruit formation (u)",
+        "c) understand the difference between cross- and self-fertilisation, and the advantages of each method (u)",
+        "d) differentiate between seeds and fruits structurally and functionally (s)",
+        "e) understand the importance of dispersal recognise the structures and types of fruits and seeds and relate their structures to their methods of dispersal (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups or pairs, learners examine specimens and/or diagrams of insect-pollinated flowers, research using different sources, and then discuss: the meaning of the term pollination and how pollination takes place; how fertilisation takes place; how seeds and fruits develop. Individuals produce annotated diagrams explaining these processes.",
+        "In groups or pairs, learners examine examples of flowers that are wind-pollinated (e.g. maize, grasses) and some that are insect-pollinated, and compare the two, especially the stamens/anthers and stigmas of each, relating structure to function. Learners then compare images or microscope slides of pollen grains from wind and insect-pollinated flowers, again relating structure to function. Individuals produce a table/report comparing the two types of flowers and pollen.",
+        "In pairs, learners research the meaning of cross- and self-fertilisation and produce a table comparing the two.",
+        "In pairs, learners examine specimens and or diagrams of fruits and seeds and discuss and explain (verbally and in notes): the structural and functional difference between fruits and seeds; how different seeds are dispersed, stating why dispersal is so important"
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups carrying out activities. Ensure that all individuals are participating and understanding lessons emerging from examination of specimens, diagrams and research; making progress with each task towards learning outcomes.",
+        "Listen to learners' conversations and ensure that all learners grasp concepts and understand all processes set out in the learning outcomes.",
+        "Evaluate quality of learning through products: annotated diagrams, tables and reports, verbal and written explanations."
+      ],
+      "ictSupport": "The learner can: use graphical software to draw a labelled diagram of a local flower; use mind mapping or word processing software to categorise fruits and seeds by their structure.",
+      "notes": null
+    },
+    {
+      "topicCode": "10.3",
+      "topicName": "SEXUAL REPRODUCTION IN HUMANS",
+      "seniorLevel": "S4",
+      "term": "1",
+      "theme": "Reproduction in organisms",
+      "durationPeriods": 22,
+      "competency": "The learner understands that sexual reproduction involves two parents with specialized reproductive systems.",
+      "learningOutcomes": [
+        "a) understand the structure and functions of male and female reproductive system in humans (k, u, s)",
+        "b) understand the changes that take place during the menstrual cycle (u)",
+        "c) relate male and female gametes (u)",
+        "d) appreciate the process of fertilization of an ovum and the developments of the zygote up to birth (u)",
+        "e) know the role of the placenta during pregnancy (k)",
+        "f) understand the importance of antenatal medical care (u, s)",
+        "g) understand aspects of care for the baby after birth (breast feeding, balanced diet, Immunization, and hygiene) (u)",
+        "h) recognise the health risks/complications associated with early/teenage pregnancy and abortion (u, v)",
+        "i) identify the common birth control methods in Uganda and give the biological principle they employ and their effectiveness. (Note: the only method recommended for young people is abstinence) (u)",
+        "j) Identify and explain common issues associated with reproductive systems (u, s)",
+        "k) know the causes, signs and symptoms and understand the mode of transmission of named STIs (Syphilis, Gonorrhoea, Candida, Human Papilloma Virus (HPV), Hepatitis B, and HIV/AIDS). (k, u, v)",
+        "l) appreciate the preventive measures for the named STI's. (Note: The ONLY preventive method recommended for young people is abstinence) (u)",
+        "m) identify the challenges faced by people living with HIV/AIDS and how to overcome them. (u, v)"
+      ],
+      "suggestedActivities": [
+        "In pairs or groups, learners examine chart(s) of male and female reproductive systems, draw and label them, researching and annotating diagrams with the functions of each part.",
+        "In groups, learners examine graphs showing monthly variation in levels of LH and FSH, oestrogen and progesterone, and changes to the uterine wall, using the graphs to discuss and explain the events of the menstrual cycle. After class discussion, individuals record the events in charts/diagrams.",
+        "In pairs or groups, learners research and describe (verbally and in notes): the structure of male and female gametes, and functions of the parts; the process of fertilisation; stages in the process of development from zygote to birth, including the role of the placenta",
+        "In groups, learners research, brainstorm and report on: care for the baby after birth (breast feeding, balanced diet, immunization, and hygiene); the importance of good antenatal medical care for mother and baby",
+        "Learners visit a health facility, listen to a visiting professional and, in groups, carry out research on: the common birth control methods used in Uganda, the biological principle they employ and their effectiveness; dangers associated with early/teenage pregnancy and abortion",
+        "Individuals produce reports/posters explaining the above two points",
+        "As individuals or in groups, learners gather information and report on menstrual and erectile abnormalities in young people and the possible medical remedies.",
+        "Learners listen to a talk from a health worker or watch a video clip about common STIs, and write a report that includes the following: causes and mode of transmission; signs and symptoms; preventive measures",
+        "Learners listen to or recite the song \"Alone and Frightened\" by Philly Bongoley Lutaya",
+        "In groups or as a whole class, learners discuss the stigma/discrimination portrayed in the song, and the significance of the song in Uganda. Groups write a short play about HIV/ AIDS and attitudes to sufferers."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups engaging in activities. Intervene as necessary and encourage all to participate despite the sensitive nature of some topics.",
+        "Ensure that all understand the importance of achieving learning outcomes for personal as well as school-related reasons.",
+        "Listen to learners' discussions and ask questions to encourage creativity and critical thinking. Ensure that all learners grasp all concepts.",
+        "Evaluate learning as shown by quality of products: oral contributions, annotated diagrams, reports, and posters.",
+        "Observe learners engaging in activities. Intervene as necessary to ensure that all are participating in pair/group discussion of sensitive issues.",
+        "Check that all are making progress with each task towards achieving learning outcomes.",
+        "Listen to learners' discussions. Ask probing questions to encourage learners to develop deep understanding of all key issues, and to be sensitive in relation to HIV/AIDS.",
+        "Evaluate quality of products: oral contributions, reports, and plays."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "11.1",
+      "topicName": "INHERITANCE",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Genetics",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates that transmission of characteristics is from parents to offspring through a process known as heredity.",
+      "learningOutcomes": [
+        "a) understand the process of cell division and significance of meiosis (k, u)",
+        "b) understand the concept of inheritance using genetic diagrams (u, s)",
+        "c) understand and explain sex determination in humans (u, s)",
+        "d) understand and explain sex linkage in humans (u, s)"
+      ],
+      "suggestedActivities": [
+        "In groups or pairs, learners view an animation on meiotic cell division. Research using other sources, and then: identify the stages and describe what occurs at each phase using annotated diagrams and notes; explain (verbally and in notes) the significance of meiotic cell division in maintaining the chromosome number",
+        "In groups, learners research on inheritance, and develop an activity using coloured beads to explain the concept to the rest of the class. Ensure that individuals explain using annotated diagrams.",
+        "In groups, learners research the meanings of the following terms: chromosome, gene, dominant and recessive, heterozygous and homozygous, phenotype and genotype. Share their understanding with the whole class using visual aids they create. Ensure that individuals explain using annotated diagrams.",
+        "In groups, learners research on, discuss and explain sex determination and sex linkage using relevant examples. Ensure that individuals explain using annotated diagrams."
+      ],
+      "assessmentStrategies": [
+        "Observe groups and ensure that they are carrying out activities effectively, and making progress in terms of achieving learning outcomes.",
+        "Listen to learners' group and wholeclass conversations, prompt them and ask questions to ensure that they grasp difficult concepts.",
+        "Evaluate quality of contributions to group and whole class discussions.",
+        "Use products like annotated diagrams and genetic diagrams to gauge understanding."
+      ],
+      "ictSupport": null,
+      "notes": "Give examples of incomplete and co-dominance. No details required."
+    },
+    {
+      "topicCode": "11.2",
+      "topicName": "VARIATION and SELECTION",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Genetics",
+      "durationPeriods": 13,
+      "competency": "The learner understands that variation is as a result of changes in the genetic make-up of an organism.",
+      "learningOutcomes": [
+        "a) appreciate that variation in organisms is due to external and internal factors, and that mutations can be beneficial, harmful or neutral (k, u)",
+        "b) identify diseases associated with genetic disorders; e.g. sickle cell anaemia, albinism, and Down's syndrome (u, v)",
+        "c) understand the concept of natural selection as a mechanism of evolution (k, u)",
+        "d) understand the use of artificial selection in selective breeding (u, a)"
+      ],
+      "suggestedActivities": [
+        "Learners do research in groups to explain the meaning and give examples of variation due to environmental factors and genetics.",
+        "In groups, learners research on and explain the significance of: beneficial mutations, neutral mutations, harmful mutations, examples such as sickle cell anaemia, albinism, and Down's syndrome. Groups present the findings to the rest of the class and individuals complete reports.",
+        "Learners visit an agricultural facility, or listen to a visiting agricultural extension officer, and/or carry out research in pairs and learn about the use of genetics in plant and animal breeding."
+      ],
+      "assessmentStrategies": [
+        "Observe groups interacting and listen to learners' conversations, Intervene as necessary to ensure that activities are leading to leaming outcomes being achieved.",
+        "Evaluate quality of products: verbal explanations, presentations, and reports."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "12.1",
+      "topicName": "CONCEPT OF ECOLOGY",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Interrelationships",
+      "durationPeriods": 3,
+      "competency": "The learner understands the concepts of communities, habitats, and ecosystems.",
+      "learningOutcomes": [
+        "a) know the meaning of the term ecology (k)",
+        "b) understand the concepts of communities, habitats and ecosystems (s, u)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners look at a map showing the main physical features of East Africa and identify at least five ecosystems; stating their distinguishing features. Groups report and compile a class list of ecosystems and their characteristics.",
+        "In groups, learners study a local ecosystem and classify its living and non-living components, identifying the dominant organisms (that determine the other organisms found there) and the communities and habitats within the ecosystem. Groups share ideas and discuss the ecosystem's components, its communities, habitats and dominant species."
+      ],
+      "assessmentStrategies": [
+        "Observe groups interacting and intervene as necessary to ensure that activities lead to learning outcomes being achieved.",
+        "Listen to learners' conversations to monitor progress and understanding. Intervene to offer guidance as appropriate.",
+        "Evaluate quality of products: ecosystem descriptions and lists; conclusions regarding local ecosystem components, communities, habitats, and dominant species."
+      ],
+      "ictSupport": null,
+      "notes": null
+    },
+    {
+      "topicCode": "12.2",
+      "topicName": "FOOD CHAINS AND FOOD WEBS",
+      "seniorLevel": "S4",
+      "term": "2",
+      "theme": "Interrelationships",
+      "durationPeriods": 12,
+      "competency": "The learner appreciates the interdependence of organisms in a given ecosystem.",
+      "learningOutcomes": [
+        "a) understand the feeding relationships in an ecosystem, and express them using food chains, webs, and pyramids (k, u, s)",
+        "b) appreciate the organisms and processes involved in the carbon cycle, and its role in maintaining the carbon dioxide balance in the atmosphere (u, v)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners study a local ecosystem through field visits and observe, identify, and record the organisms. The learners: note what food sources the animal species rely upon; draw simple food chains and develop these into a food web; identify the trophic levels of the organisms observed. Groups share their reports with the class to ensure that all have a good level of understanding.",
+        "In groups, learners use the data from their local ecosystem, or use data provided showing numbers of organisms found in, for example, a grassland ecosystem, to: categorize the organisms as producers, primary consumers and secondary consumers; calculate the number of organisms in each trophic level; use the numbers to construct a pyramid of numbers; explain the appearance of the pyramid. Individuals record conclusions and draw pyramids."
+      ],
+      "assessmentStrategies": [
+        "Observe groups carrying out activities and offer guidance to ensure that observation techniques are effective, and that identifications and interpretations of feeding relationships are accurate.",
+        "Listen to learners' conversations and monitor progress and understanding.",
+        "Ask questions to deepen the understanding of the learners",
+        "Evaluate quality of products: verbal and written reports, and pyramid drawings."
+      ],
+      "ictSupport": "The learner can: use spread sheets to enter and analyse data; use slide presentations for report on findings",
+      "notes": "Details of pyramid of biomass and energy not required."
+    },
+    {
+      "topicCode": "12.3",
+      "topicName": "ASSOCIATIONS IN BIOLOGICAL COMMUNITIES",
+      "seniorLevel": "S4",
+      "term": "3",
+      "theme": "Interrelationships",
+      "durationPeriods": 18,
+      "competency": "The learner appreciates that organisms naturally interact in different ways with one another in a given habitat.",
+      "learningOutcomes": [
+        "a) know what competition is and describe how organisms compete in nature (k, u)",
+        "b) differentiate prey from predators and describe a predator-prey relationship (u, s)",
+        "c) understand symbiosis, mutualism, commensalism and parasitism and appreciate their roles in an ecosystem (k u)",
+        "d) recognise the role of parasites and vectors in the transmission of common diseases (malaria, bilharzia, nagana, and sleeping sickness) (k, u, v)",
+        "e) know the adaptations of parasites to their mode of life (u)"
+      ],
+      "suggestedActivities": [
+        "Learners observe areas with dense natural populations of animals such as a farm or garbage pit, or they observe video clips, noting which organisms seem to be competing for the same type of food and/ or the same space, and report how the organisms behaved and which seemed to dominate.",
+        "In pairs, learners brainstorm examples of predator-prey relationships and present their conclusions in a chart showing what eats what (regular relationships only, not including, for example, man eating lions).",
+        "In pairs, learners examine collected numerical data relating to a prey-predator relationship and plot a prey-predator curve (MS Excel, if applicable). Pairs describe and explain the curve orally and in writing.",
+        "In groups, learners research the meanings of the terms symbiosis, mutualism, commensalism and parasitism, and produce a poster/graphic image explaining each term and giving natural examples.",
+        "Learners visit a nearby health/agricultural facility, or listen to a visiting health/ agricultural officer, and/or carry out research, to find out about and then report on common parasitic diseases, how they are transmitted and how they can be prevented.",
+        "Learners develop and present a role play to show how different parasites are adapted to their mode of life and how humans try to prevent their transmission."
+      ],
+      "assessmentStrategies": [
+        "Observe pair and group interactions, ensuring that all are engaging and developing their understanding. Intervene to ensure progress towards learning outcomes.",
+        "Listen to learners' discussions and probe to promote critical thinking and creativity in reports, posters, and to deepen learning.",
+        "Evaluate quality of notes, charts, growth curves and analysis, posters/graphic images, reports, and role plays."
+      ],
+      "ictSupport": null,
+      "notes": "Details of life cycles of parasites not required. Parasites: ticks, and tapeworm."
+    },
+    {
+      "topicCode": "12.4",
+      "topicName": "HUMANS AND THE NATURAL ENVIRONMENT",
+      "seniorLevel": "S4",
+      "term": "3",
+      "theme": "Interrelationships",
+      "durationPeriods": 20,
+      "competency": "The learner appreciates that Uganda has different natural resources, that our activities have an impact on these resources, and recognises the reasons why countries have committed to global sustainable development goals.",
+      "learningOutcomes": [
+        "a) understand there is a world-wide focus on sustainability and its importance (u)",
+        "b) know and give examples of natural resources found in Uganda (k, u)",
+        "c) appreciate and describe natural factors and human influences that may have an impact on ecosystems, and make suggestions about how to preserve the natural environment for all living things (u, s, v)",
+        "d) understand the sources, effects and control of air, land and water pollution (u, s, v)"
+      ],
+      "suggestedActivities": [
+        "In groups, learners research on the international commitment to countries working together to achieve sustainable development goals (SDGs) by 2030. Groups report to the class on the meaning of sustainability, the importance of the SDGs and the scope of the goals.",
+        "In groups, learners brainstorm and carry out research so that they can: develop a list of natural resources in Uganda; classify the resources into renewable and non-renewable; identify examples of human activities that have affected the natural resources (negatively and positively), and suggest ways of conserving Uganda's natural resources for future generations. Individuals write reports",
+        "In groups, learners research and report on: the main sources of air, land, and water pollution affecting the environment worldwide-, and in Uganda, and their impact; the strategies being used to address these forms of pollution, and their hopes and fears for the future",
+        "In pairs or groups, learners research on and describe ways in which the different categories of garbage can be re-used or recycled.",
+        "Report on how effectively re-use and recycling is taking place in Uganda, and in the locality; what could/should be done to improve. Include a strategy for more sustainable practices in school."
+      ],
+      "assessmentStrategies": [
+        "Observe pairs and groups carrying out activities. Help to guide research in order to optimise progress towards learning outcomes.",
+        "Listen to learners' discussions and ask questions to probe and overcome any barriers or misunderstandings, and so deepen learning of all participants.",
+        "Evaluate quality of products: verbal feedback to the class, written reports, explanatory drawings/diagrams, and sustainability strategies."
+      ],
+      "ictSupport": "The learner can use word processing, mind mapping or any other software for data entry and report making.",
+      "notes": null
+    }
+  ]
+}
